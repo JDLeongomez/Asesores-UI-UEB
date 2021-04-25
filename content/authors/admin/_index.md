@@ -1,6 +1,7 @@
 ---
 title: Maria Fernanda Reyes
 role: PhD, MSc
+avatar_filename: circle-cropped5.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
