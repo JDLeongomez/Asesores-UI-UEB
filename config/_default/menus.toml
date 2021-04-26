@@ -10,10 +10,15 @@
 
 [[main]]
   name = "Asesores"
-  url = "people"
-  weight = 30
+  url = "#people"
+  weight = 20
+
+[[main]]
+  name = "Recursos"
+  url = "#news"
+  weight = 40
 
 [[main]]
   name = "Contacto"
-  url = "contact"
+  url = "#contact"
   weight = 60

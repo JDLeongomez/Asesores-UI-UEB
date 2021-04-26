@@ -8,10 +8,10 @@ light = true
 primary = "#F9B700"
 
 # Menu
-menu_primary = "#F9B700"
+menu_primary = "#2b2b2b"
 menu_text = "#F9B700"
-menu_text_active = "#FF5733"
-menu_title = "#2b2b2b"
+menu_text_active = "#004D40"
+menu_title = "#F9B700"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
@@ -19,4 +19,4 @@ home_section_even = "rgb(247, 247, 247)"
 
 [dark]
   link = "#F9B700"
-  link_hover = "#FF5733"
+  link_hover = "#004D40"
