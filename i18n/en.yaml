@@ -57,11 +57,11 @@
 - id: btn_download
   translation: Descargar
 - id: interests
-  translation: Metodologías
+  translation: Asesorías en
 - id: education
   translation: Educación
 - id: user_profile_latest
-  translation: Recientes
+  translation: Recursos creados
 - id: see_certificate
   translation: Ver certificado
 - id: present

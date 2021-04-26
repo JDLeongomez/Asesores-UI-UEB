@@ -26,8 +26,11 @@ interests:
 education:
   courses:
   - course: Psicología
-    institution: Universidad El Bosque (Bogota, Colombia)
+    institution: Universidad El Bosque (Bogotá, Colombia)
     year: 2019
+  - course: Tecnólogo en Electrónica
+    institution: SENA (Bogotá, Colombia)
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

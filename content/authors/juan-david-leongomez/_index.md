@@ -4,7 +4,7 @@ title: Juan David Leongómez
 
 # Username (this should match the folder name)
 authors:
-- admin
+- juan-david-leongomez
 
 # Is this the primary user of the site?
 superuser: true
