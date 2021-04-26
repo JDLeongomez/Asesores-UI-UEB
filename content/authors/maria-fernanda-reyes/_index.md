@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: mailto:reyesmariafr@unbosque.edu.co
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=vHGbm0sAAAAJ&hl
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Maria-Reyes-10
