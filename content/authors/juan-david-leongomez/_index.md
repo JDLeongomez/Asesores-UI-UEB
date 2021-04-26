@@ -86,4 +86,4 @@ highlight_name: true
 * **Modelado estadístico en <i class="fab fa-r-project"></i>:** Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos, *Machine Learning*
 * **Informes reproducibles y ciencia abierta:** Markdown/Rmarkdown (incluyendo $\LaTeX$ y HTML<i class="fab fa-html5"></i>)
 
-**Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**

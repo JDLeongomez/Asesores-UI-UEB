@@ -73,4 +73,4 @@ user_groups:
 * **Psicometría:** creación y revisión de ítems, índices de confiabilidad, validez (contenido, estructura interna y relación con otras variables)
 * **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
 
-**Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**

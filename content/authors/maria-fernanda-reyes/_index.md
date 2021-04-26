@@ -34,7 +34,7 @@ education:
     institution: University Of Liverpool (Liverpool, Reino Unido)
     year: 2010
   - course: Psicología
-    institution: Universidad El Bosque (Bogota, Colombia)
+    institution: Universidad El Bosque (Bogotá, Colombia)
     year: 2004
 
 # Social/Academic Networking
@@ -78,4 +78,4 @@ user_groups:
 * **Métodos Mixtos de Investigación:** elección del diseño mixto de investigación,
 establecimiento de objetivos y modelo de análisis de datos
 
-**Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**

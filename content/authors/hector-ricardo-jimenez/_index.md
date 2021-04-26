@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Profesor Asistente - MSc
+role: Profesor Asociado - MSc
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,21 @@ interests:
 
 education:
   courses:
-  - course: MSc
-    institution: Universidad XXX (XXX, XXX)
-    year: XXX
-  - course: XXX
-    institution: Universidad XXX (XXX, XXX)
-    year: XXX
+  - course: MSc en Bioética
+    institution: Universidad El Bosque (Bogotá, Colombia)
+    year: 2016
+  - course: MSc en Ciencias de la Educación
+    institution: Universidad de San Buenaventura (Bogotá, Colombia)
+    year: 2014
+  - course: Especialización en Pedagogía Docencia Universitaria
+    institution: Universidad de San Buenaventura (Bogotá, Colombia)
+    year: 2005
+  - course: Especialización en Medición y Evaluación en Ciencias Sociales
+    institution: Corporación Universitaria Iberoamericana (Bogotá, Colombia)
+    year: 2005
+  - course: Psicología
+    institution: Corporación Universitaria Iberoamericana (Bogotá, Colombia)
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "reyesmariafr@unbosque.edu.co"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,4 +78,4 @@ user_groups:
 * Procesamiento de datos
 * Aspectos éticos y bioéticos en investigación
 
-**Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
