@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Métodos Cualitativos <i class="fas fa-user-check"></i>
+- Métodos Cualitativos <i class="fas fa-user-check"></i><br />
 
 education:
   courses:
@@ -54,12 +54,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "francoangelica@unbosque.edu.co "
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Métodos Cualitativos
+- Asesores
 ---
 
 # **Asesorías en:**

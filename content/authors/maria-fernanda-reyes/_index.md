@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Métodos Mixtos <i class="fas fa-bezier-curve"></i>
-- Métodos Cuantitativos <i class="fas fa-ruler"></i>
-- Estadística <i class="fas fa-chart-bar"></i>
+- Métodos Mixtos <i class="fas fa-bezier-curve"></i><br />
+- Métodos Cuantitativos <i class="fas fa-ruler"></i><br />
+- Estadística <i class="fas fa-chart-bar"></i><br />
 
 education:
   courses:
@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "reyesmariafr@unbosque.edu.co"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -64,6 +64,7 @@ user_groups:
 - Métodos Mixtos
 - Estadística
 - Métodos Cuantitativos
+- Asesores
 ---
 
 # **Asesorías en:**

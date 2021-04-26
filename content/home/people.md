@@ -7,27 +7,20 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
-title = "Asesores Metodológicos"
+title = ""
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["APA",
-                 "Psicometría",
-                 "Aspectos Éticos",
-                 "Métodos Cualitativos",
-                 "Métodos Mixtos",
-                 "Métodos Cuantitativos",
-                 "Estadística",
-                 "Diseños Experimentales"]
+  user_groups = ["Asesores"]
 
 [design]
   # Show user's social networking links? (true/false)
   show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,7 +29,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "orange"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

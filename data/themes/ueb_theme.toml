@@ -5,18 +5,18 @@ name = "ueb_theme"
 light = true
 
 # Primary
-primary = "#F9B700"
+primary = "#f68212"
 
 # Menu
 menu_primary = "#2b2b2b"
-menu_text = "#F9B700"
-menu_text_active = "#004D40"
-menu_title = "#F9B700"
+menu_text = "#f68212"
+menu_text_active = "#f68212"
+menu_title = "#f68212"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
 [dark]
-  link = "#F9B700"
-  link_hover = "#004D40"
+  link = "#f68212"
+  link_hover = "#F9B700"

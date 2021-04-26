@@ -5,10 +5,10 @@ headless: true
 weight: 20
 
 title: Recursos
-subtitle:
+subtitle: Encuentra videos, documentos y otros recursos metodológicos
 
 content:
-  count: 5
+  count: 15
   filters:
     author: ""
     category: ""
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  view: 2
   columns: "1"
 ---
