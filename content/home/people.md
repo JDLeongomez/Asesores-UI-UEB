@@ -13,14 +13,14 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Estadística",
-                 "Diseños Experimentales",
-                 "Métodos Cuantitativos",
-                 "Métodos Mixtos",
-                 "Métodos Cualitativos",
+  user_groups = ["APA",
                  "Psicometría",
                  "Aspectos Éticos",
-                 "APA"]
+                 "Métodos Cualitativos",
+                 "Métodos Mixtos",
+                 "Métodos Cuantitativos",
+                 "Estadística",
+                 "Diseños Experimentales"]
 
 [design]
   # Show user's social networking links? (true/false)

@@ -21,9 +21,9 @@ organizations:
 bio:
 
 interests:
-- Métodos Cuantitativos
-- Diseños Experimentales
-- Estadística
+- Métodos Cuantitativos <i class="fas fa-ruler"></i>
+- Diseños Experimentales <i class="fas fa-vials"></i>
+- Estadística <i class="fas fa-chart-bar"></i>
 - Programación en <i class="fab fa-r-project"></i>
 
 education:

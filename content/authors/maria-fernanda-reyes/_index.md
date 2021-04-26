@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Métodos Mixtos
-- Estadística
-- Métodos Cuantitativos
+- Métodos Mixtos <i class="fas fa-bezier-curve"></i>
+- Métodos Cuantitativos <i class="fas fa-ruler"></i>
+- Estadística <i class="fas fa-chart-bar"></i>
 
 education:
   courses:
