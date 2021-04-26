@@ -83,7 +83,7 @@ highlight_name: true
 # **Asesorías en:**
 
 * **Formulación y diseño de la investigaciones experimentales**
-* **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, análisis de datos, elección de técnicas estadísticas e interpretación de resultados
 * **Modelado estadístico en <i class="fab fa-r-project"></i>:** Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos, *Machine Learning*
+* **Informes reproducibles y ciencia abierta:** Markdown/Rmarkdown (incluyendo $\LaTeX$ y HTML<i class="fab fa-html5"></i>)
 
 **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
