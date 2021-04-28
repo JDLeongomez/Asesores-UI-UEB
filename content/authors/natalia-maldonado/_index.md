@@ -64,7 +64,7 @@ user_groups:
 - Métodos Cuantitativos
 - Psicometría
 - Estadística
-- Asesores
+- Nuestros asesores
 ---
 
 # **Asesorías en:**

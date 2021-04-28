@@ -67,7 +67,7 @@ user_groups:
 - Métodos Cuantitativos
 - Psicometría
 - Aspectos Éticos
-- Asesores
+- Nuestros asesores
 ---
 
 # **Asesorías en:**

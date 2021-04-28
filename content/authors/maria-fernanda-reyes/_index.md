@@ -67,7 +67,7 @@ user_groups:
 - Métodos Mixtos
 - Estadística
 - Métodos Cuantitativos
-- Asesores
+- Nuestros asesores
 ---
 
 # **Asesorías en:**

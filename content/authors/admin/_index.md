@@ -53,7 +53,18 @@ La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/vi
 
 ## Pasos para solicitar una asesoría
 
-1. Revisa en el [listado de los asesores](#people) con que cuenta la Unidad de Investigaciones y consulta los datos de contacto de los mismos
+1. Revisa en el [listado de los asesores](/asesores) con que cuenta la Unidad de Investigaciones y consulta los detalles y datos de contacto de los mismos entrando a sus perfiles
 2. Solicita la asesoría con 5 días calendario de anticipación; el asesor te asignará una cita dentro de su disponibilidad de tiempo
-3. Envía o muestra al asesor información de la investigación (ver requisitos) 
-4. En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el [formato para el seguimiento de asesorías](https://aulavirtual.unbosque.edu.co/mod/resource/view.php?id=250871&forceview=1)
+3. Envía o muestra al asesor información de la investigación <details class="details-example">
+    <summary style="color:#f68212;">Ver requisitos</summary>
+    <p>Para poder adelantar un adecuado proceso de asesoría, es importante que le hagan llegar o muestren al asesor, la siguiente información:</p>
+    <ul>
+        <li>Titulo exacto del proyecto</li>
+        <li>Problema de investigación</li>
+        <li>Objetivos de la investigación (general y específicos)</li>
+        <li>Marco metodológico de la investigación (método o diseño, instrumentos y/o cuestionarios, participantes y/o muestra).</li>
+        <li>Copia del último documento entregado a la Unidad de Investigaciones o a los jurados</li>
+        <li>Cualquier otra información que el asesor solicite o que el director crea pertinente</li>
+    </ul>
+</details>
+4. En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías ({{% staticref "uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" "newtab" %}}descargar formato{{% /staticref %}})

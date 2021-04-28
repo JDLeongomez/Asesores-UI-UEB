@@ -74,7 +74,7 @@ user_groups:
 - Métodos Cuantitativos
 - Diseños Experimentales
 - Estadística
-- Asesores
+- Nuestros asesores
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -82,7 +82,7 @@ highlight_name: true
 
 # **Asesorías en:**
 
-* **Formulación y diseño de la investigaciones experimentales**
+* **Formulación y diseño de investigaciones experimentales**, incluyendo cálculo de tamaño de muestra con base en [análisis de poder estadístico](/post/power/)
 * **Modelado estadístico en <i class="fab fa-r-project"></i>:** Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos, *Machine Learning*
 * **Informes reproducibles y ciencia abierta:** Markdown/Rmarkdown (incluyendo $\LaTeX$ y HTML<i class="fab fa-html5"></i>)
 

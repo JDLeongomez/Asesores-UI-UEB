@@ -9,14 +9,14 @@
 #  weight = 10
 
 [[main]]
-  name = "Lista de asesores"
+  name = "Nuestros asesores"
   url = "#people"
   weight = 10
 
 [[main]]
   identifier = "asesores"
   name = "Asesores por tema"
-  url = "#people"
+  url = "people/"
   weight = 20
 
 [[main]]

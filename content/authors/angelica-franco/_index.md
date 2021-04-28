@@ -60,7 +60,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Métodos Cualitativos
-- Asesores
+- Nuestros asesores
 ---
 
 # **Asesorías en:**
