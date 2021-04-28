@@ -53,11 +53,11 @@ La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/vi
 
 ## Pasos para solicitar una asesoría
 
-1. Revisa en el [listado de los asesores](/asesores) con que cuenta la Unidad de Investigaciones y consulta los detalles y datos de contacto de los mismos entrando a sus perfiles
-2. Solicita la asesoría con 5 días calendario de anticipación; el asesor te asignará una cita dentro de su disponibilidad de tiempo
-3. Envía o muestra al asesor información de la investigación <details class="details-example">
+1. Revisa en el [**listado de los asesores**](/asesores) con que cuenta la Unidad de Investigaciones y **consulta los detalles y datos de contacto** de los mismos entrando a sus perfiles
+2. Solicita la asesoría con **5 días calendario** de anticipación; el asesor te asignará una cita dentro de su disponibilidad de tiempo
+3. Envía o muestra al asesor **información de la investigación** <details class="details-example">
     <summary style="color:#f68212;">Ver requisitos</summary>
-    <p>Para poder adelantar un adecuado proceso de asesoría, es importante que le hagan llegar o muestren al asesor, la siguiente información:</p>
+    <p>Para poder adelantar un adecuado proceso de asesoría, es importante que le hagas llegar o muestres al asesor, la siguiente información:</p>
     <ul>
         <li>Titulo exacto del proyecto</li>
         <li>Problema de investigación</li>
@@ -67,4 +67,12 @@ La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/vi
         <li>Cualquier otra información que el asesor solicite o que el director crea pertinente</li>
     </ul>
 </details>
-4. En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías ({{% staticref "uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" "newtab" %}}descargar formato{{% /staticref %}})
+4. En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
+
+## Recursos
+
+Recuerda apoyarte siempre en los [recursos](#news) metodológicos (videos y documentos) creados por nuestros asesores
+
+## Funciones de los asesores
+
+<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="5f577a3e08563f0d8a876510" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
