@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Recursos
+title: Recursos metodológicos
 subtitle: Encuentra guías, videos, documentos y otros recursos metodológicos creados por nuestros asesores
 
 content:
