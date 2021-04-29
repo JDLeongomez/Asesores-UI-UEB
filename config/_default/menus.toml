@@ -77,10 +77,15 @@
 
 [[main]]
   name = "Recursos"
-  url = "#news"
+  url = "#recursos"
   weight = 60
+
+[[main]]
+  name = "Funciones"
+  url = "#funciones"
+  weight = 70
 
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 70
+  weight = 100

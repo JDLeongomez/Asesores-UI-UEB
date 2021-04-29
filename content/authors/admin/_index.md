@@ -69,10 +69,6 @@ La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/vi
 </details>
 4. En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
 
-## Recursos
+## Recursos de aptendizaje
 
-Recuerda apoyarte siempre en los [recursos](#news) metodológicos (videos y documentos) creados por nuestros asesores
-
-## Funciones de los asesores
-
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="5f577a3e08563f0d8a876510" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+Recuerda apoyarte siempre en los [**recursos metodológicos**](#recursos) (guías, videos y documentos) creados por nuestros asesores

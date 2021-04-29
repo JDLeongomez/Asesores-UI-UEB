@@ -5,7 +5,7 @@ headless: true
 weight: 20
 
 title: Recursos
-subtitle: Encuentra videos, documentos y otros recursos metodológicos
+subtitle: Encuentra guías, videos, documentos y otros recursos metodológicos creados por nuestros asesores
 
 content:
   count: 15

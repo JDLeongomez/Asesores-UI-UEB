@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Asesores Metodológicos"
+subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada uno de nuestros asesores hacienco clic en sus perfiles"
 
 [content]
   # Choose which groups/teams of users to display.
@@ -56,3 +56,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
