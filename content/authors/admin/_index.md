@@ -67,7 +67,8 @@ La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/vi
         <li>Cualquier otra información que el asesor solicite o que el director crea pertinente</li>
     </ul>
 </details>
-4. En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
+
+**NOTA:** En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
 
 ## Recursos de aprendizaje
 
