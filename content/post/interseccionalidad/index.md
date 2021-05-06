@@ -5,7 +5,7 @@ authors: ["maria-fernanda-reyes", "angelica-franco"]
 summary: Espacio virtual está dedicado a hablar acerca de la relación entre Investigación, interseccionalidad y enfoque diferencial.
 ---
 
-Este espacio virtual está dedicado a hablar acerca de la relación entre Investigación, interseccionalidad y enfoque diferencial. Esta intervención está dividido en tres apartados: 
+Este espacio virtual está dedicado a hablar acerca de la relación entre Investigación, interseccionalidad y enfoque diferencial. Esta intervención está dividida en tres apartados: 
 
 1. Hacia una ética autocrítica 
 2. Abordaje de conceptos y categorías
