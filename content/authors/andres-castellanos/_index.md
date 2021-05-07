@@ -61,6 +61,9 @@ email: ""
 user_groups:
 - Normas APA
 - Nuestros asesores
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 # **Asesorías en:**

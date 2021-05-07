@@ -1,11 +1,12 @@
 ---
 title: "Serie de 3 videos: Investigación, interseccionalidad y enfoque diferencial"
 date: 2021-04-06T00:00:00
-authors: ["maria-fernanda-reyes", "angelica-franco"]
-summary: Espacio virtual está dedicado a hablar acerca de la relación entre Investigación, interseccionalidad y enfoque diferencial.
+authors: ["angelica-franco", "maria-fernanda-reyes"]
+summary: Espacio virtual está dedicado a hablar acerca de la relación entre **investigación**, **interseccionalidad** y **enfoque diferencial**.
+tags: ["Interseccionalidad", "Enfoque diferencial", "Investigacion"]
 ---
 
-Este espacio virtual está dedicado a hablar acerca de la relación entre Investigación, interseccionalidad y enfoque diferencial. Esta intervención está dividida en tres apartados: 
+Este espacio virtual está dedicado a hablar acerca de la relación entre **investigación**, **interseccionalidad** y **enfoque diferencial**. Esta intervención está dividida en tres apartados: 
 
 1. Hacia una ética autocrítica 
 2. Abordaje de conceptos y categorías

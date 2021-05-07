@@ -3,6 +3,7 @@ title: "Video: Introducción a OBS Studio"
 date: 2020-04-03T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En esta introducción básica a **OBS Studio** explico cómo capturar video y audio de varias fuentes, para grabar clases y tutoriales. 
+tags: ["Software", "Guía", "OBS Studio", "Grabar videos"]
 ---
 
 En esta introducción básica a [OBS Studio](https://obsproject.com/) explico cómo capturar video y audio de varias fuentes, para grabación de videos. Este tutorial básico está especialmente enfocado en la grabación de clases.

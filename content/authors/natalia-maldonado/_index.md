@@ -65,6 +65,9 @@ user_groups:
 - Psicometría
 - Estadística
 - Nuestros asesores
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 # **Asesorías en:**
