@@ -46,6 +46,8 @@ content:
       tag: Descriptivos
     - name: Valores p
       tag: Valores p
+    - name: Meta-análisis
+      tag: Meta-análisis
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
