@@ -51,13 +51,16 @@ social:
   link: https://jdleongomez.info/es/
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
+  link: https://www.youtube.com/c/InvestigaciónAbierta
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=8Q0jKHsAAAAJ&hl.
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
+- icon: calendar-check
+  icon_pack: fa
+  link: https://calendly.com/jleongomez
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -86,4 +89,6 @@ highlight_name: true
 * **Modelado estadístico en <i class="fab fa-r-project"></i>:** Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos, *Machine Learning*
 * **Informes reproducibles y ciencia abierta:** Markdown/Rmarkdown (incluyendo $\LaTeX$ y HTML<i class="fab fa-html5"></i>)
 
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-calendar-check"></i></span> [Solicitar una cita](https://calendly.com/jleongomez)
+
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
