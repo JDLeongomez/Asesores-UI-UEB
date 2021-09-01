@@ -85,7 +85,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "cinvestigapsico@unbosque.edu.co"
-phone = "(+57-1) 6489000 Ext. 1284"
+phone = "(+57) 601-6489000 Ext. 1284"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
