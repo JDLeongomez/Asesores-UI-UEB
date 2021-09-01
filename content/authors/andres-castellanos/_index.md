@@ -70,6 +70,6 @@ highlight_name: true
 
 * **Normmas APA**
 * **Escritura de documentos:** Construcción y organización de bases de datos, elaboración de plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
-* **Gestión bibliográfica** en Mendeley <i class="ai ai-mendeley"></i>
+* **Gestión bibliográfica** en Mendeley <i class="ai ai-mendeley"></i> y Zotero
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
