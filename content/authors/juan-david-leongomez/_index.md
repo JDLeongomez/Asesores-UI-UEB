@@ -89,6 +89,6 @@ highlight_name: true
 * **Modelado estadístico en <i class="fab fa-r-project"></i>:** Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos, *Machine Learning*
 * **Informes reproducibles y ciencia abierta:** Markdown/Rmarkdown (incluyendo $\LaTeX$ y HTML<i class="fab fa-html5"></i>)
 
-<span style="color: #f68212;"><i class="fas fa-calendar-check"></i></span> [Solicitar una cita](https://calendly.com/jleongomez)
+<span style="color: #f68212;"><i class="fas fa-calendar-check"></i>&nbsp;</span> [Solicitar una cita](https://calendly.com/jleongomez)
 
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**

@@ -74,4 +74,4 @@ highlight_name: true
 * **Análisis artesanal** (Excel) y **asistido por computadora** (ATLAS.ti)
 * **Triangulación**
 
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**

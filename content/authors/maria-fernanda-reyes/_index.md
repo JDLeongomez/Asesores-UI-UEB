@@ -81,4 +81,4 @@ highlight_name: true
 * **Métodos Mixtos de Investigación:** elección del diseño mixto de investigación,
 establecimiento de objetivos y modelo de análisis de datos
 
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
