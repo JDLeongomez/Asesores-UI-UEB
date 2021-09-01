@@ -81,4 +81,4 @@ highlight_name: true
 * Procesamiento de datos
 * Aspectos éticos y bioéticos en investigación
 
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span> **Para contactarme o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
