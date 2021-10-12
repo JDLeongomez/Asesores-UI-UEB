@@ -22,7 +22,7 @@ Este espacio virtual está dedicado a hablar acerca de la relación entre **inve
 
 **Abordaje de conceptos y categorías.**
 
-Próximamente.
+{{< youtube PLMCOLN_O6w >}}
 
 ## Sesión 3
 
