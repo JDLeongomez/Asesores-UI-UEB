@@ -1,12 +1,12 @@
 ---
-title: "Guía: Meta-análisis de correlaciones en R"
+title: "Guía: Meta-análisis de correlaciones en R (borrador)"
 date: 2021-11-02T00:00:00
 authors: ["juan-david-leongomez"]
 summary: Este documento contiene todo el código explicaciones básicas, paso a paso, para hacer un meta-análisis en R. 
 tags: ["Estadística", "Software", "Guía", "R", "Meta-análisis", "Correlación", "Tamaño de muestra"]
 ---
 
-Este documento contiene todo el código explicaciones básicas, paso a paso, para hacer un meta-análisis en R, usando los paquetes [`metafor`](https://www.metafor-project.org/doku.php) (Viechtbauer, 2010) y [`robumeta`](https://www.rdocumentation.org/packages/robumeta) (Fisher & Tipton, 2015). Está principalmente basado en [este video](https://youtu.be/lH4VZMTEZSc), creado por Daniel S. Quintana (2021), pero contiene citas a fuentes primarias, además de información que he agregado.
+Este documento contiene todo el código explicaciones básicas, paso a paso, para hacer un meta-análisis en R, usando los paquetes [`metafor`](https://www.metafor-project.org/doku.php) (Viechtbauer, 2010) y [`robumeta`](https://www.rdocumentation.org/packages/robumeta) (Fisher & Tipton, 2015). Está principalmente basado en [este video](https://youtu.be/lH4VZMTEZSc), creado por Daniel S. Quintana (2021), pero contiene citas a fuentes primarias, además de información que he agregado. El documento está casi completo, pero lo considero un borrador porque hay pequeñas correcciones y adiciones por hacer.
 
 **Cita:**
 > Leongómez, J.D. (2021). Meta-análisis de correlaciones en R. *Zenodo*. https://doi.org/10.5281/zenodo.5640182
