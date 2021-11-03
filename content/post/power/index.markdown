@@ -12,7 +12,9 @@ Los videos se centran en el procedimiento para realizar **análisis de poder** y
 
 Esta serie además tiene un documento de apoyo:
 
-> Juan David Leongómez (2020). *Análisis de poder estadístico y cálculo de tamaño de muestra en R: Guía práctica.* Zenodo. https://doi.org/10.5281/zenodo.3988776
+> Juan David Leongómez (2020). *Análisis de poder estadístico y cálculo de tamaño de muestra en R: Guía práctica.* Zenodo. https://doi.org/10.5281/zenodo.3988776 
+
+{{< cta cta_text="Descargar guía PDF" cta_link="power.pdf" cta_new_tab="true" >}}
 
 # 1. Introducción
 
