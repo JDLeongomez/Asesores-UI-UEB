@@ -19,66 +19,73 @@
   url = "people/"
   weight = 20
 
-[[main]]
-  identifier = "asesores1"
-  name = "Normas APA"
-  url = "apa/"
-  parent = "asesores"
-  weight = 20
+  [[main]]
+    identifier = "asesores0"
+    name = "—Todas las áreas—"
+    url = "asesores/"
+    parent = "asesores"
+    weight = 20
 
-[[main]]
-  identifier = "asesores2"
-  name = "Psicometría"
-  url = "psicometria/"
-  parent = "asesores"
-  weight = 25
+  [[main]]
+    identifier = "asesores1"
+    name = "Normas APA"
+    url = "apa/"
+    parent = "asesores"
+    weight = 25
 
-[[main]]
-  identifier = "asesores3"
-  name = "Aspectos Éticos"
-  url = "etica/"
-  parent = "asesores"
-  weight = 30
+  [[main]]
+    identifier = "asesores2"
+    name = "Psicometría"
+    url = "psicometria/"
+    parent = "asesores"
+    weight = 30
 
-[[main]]
-  identifier = "asesores4"
-  name = "Métodos Cualitativos"
-  url = "cuali/"
-  parent = "asesores"
-  weight = 35
+  [[main]]
+    identifier = "asesores3"
+    name = "Aspectos Éticos"
+    url = "etica/"
+    parent = "asesores"
+    weight = 35
 
-[[main]]
-  identifier = "asesores5"
-  name = "Métodos Mixtos"
-  url = "mixtos/"
-  parent = "asesores"
-  weight = 40
+  [[main]]
+    identifier = "asesores4"
+    name = "Métodos Cualitativos"
+    url = "cuali/"
+    parent = "asesores"
+    weight = 40
 
-[[main]]
-  identifier = "asesores6"
-  name = "Métodos Cuantitativos"
-  url = "cuanti/"
-  parent = "asesores"
-  weight = 45
+  [[main]]
+    identifier = "asesores5"
+    name = "Métodos Mixtos"
+    url = "mixtos/"
+    parent = "asesores"
+    weight = 45
 
-[[main]]
-  identifier = "asesores7"
-  name = "Estadística"
-  url = "stats/"
-  parent = "asesores"
-  weight = 50
+  [[main]]
+    identifier = "asesores6"
+    name = "Métodos Cuantitativos"
+    url = "cuanti/"
+    parent = "asesores"
+    weight = 50
 
-[[main]]
-  identifier = "asesores8"
-  name = "Diseños Experimentales"
-  url = "exp/"
-  parent = "asesores"
-  weight = 55
+  [[main]]
+    identifier = "asesores7"
+    name = "Estadística"
+    url = "stats/"
+    parent = "asesores"
+    weight = 55
+
+  [[main]]
+    identifier = "asesores8"
+    name = "Diseños Experimentales"
+    url = "exp/"
+    parent = "asesores"
+    weight = 60
 
 [[main]]
   name = "Recursos"
   url = "#recursos"
-  weight = 60
+  weight = 65
 
 [[main]]
   name = "Funciones"
