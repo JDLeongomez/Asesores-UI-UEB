@@ -40,6 +40,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: mailto:pzamorac@unbosque.edu.co
+- icon: linkedin
+  icon_pack: fab
+  link: https://co.linkedin.com/in/paula-zamora-78126231
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
