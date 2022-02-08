@@ -14,17 +14,17 @@ role: Profesor Asociado - PhD, MSc
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+- name: Laboratorio de Análisis del Comportamiento Humano (LACH) - Facultad de Psicología - Universidad El Bosque
+  url: "https://www.psicologia.unbosque.edu.co/lach"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Métodos Cuantitativos <i class="fas fa-ruler"></i><br />
-- Diseños Experimentales <i class="fas fa-vials"></i><br />
-- Estadística <i class="fas fa-chart-bar"></i><br />
-- Programación en <i class="fab fa-r-project"></i><br />
+- Métodos Cuantitativos <i class="fas fa-ruler"></i><br/>
+- Diseños Experimentales <i class="fas fa-vials"></i><br/>
+- Estadística <i class="fas fa-chart-bar"></i><br/>
+- Programación en <i class="fab fa-r-project"></i><br/>
 
 education:
   courses:
