@@ -67,8 +67,8 @@ highlight_name: true
 
 *	**Fundamentación epistemológica** con énfasis cualitativo
 *	**Proceso de investigación cualitativa:** diseño y formulación (planteamiento del problema, pregunta de investigación, objetivos, propuesta metodológica, métodos y técnicas de recolección de información, trabajo de campo)
-*	Registro, organización y sistematización de **datos cualitativos**
-*	**Análisis de datos cualitativos** y construcción de resultados
+*	**Registro, organización y sistematización** de datos cualitativos
+*	**Análisis** de datos cualitativos y construcción de resultados
 
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
