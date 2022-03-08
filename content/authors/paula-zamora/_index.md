@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Métodos Cualitativos <i class="fas fa-user-check"></i><br />
+- <a href='/cuali' >Métodos Cualitativos <i class="fas fa-user-check"></i></a><br />
 
 education:
   courses:

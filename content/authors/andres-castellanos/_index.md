@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Normas APA <i class="fas fa-edit"></i><br />
+- <a href='/apa' >Normas APA <i class="fas fa-edit"></i></a><br />
 
 education:
   courses:

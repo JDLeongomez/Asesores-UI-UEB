@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Métodos Cuantitativos <i class="fas fa-ruler"></i><br />
-- Psicometría <i class="fas fa-weight"></i><br />
-- Estadística <i class="fas fa-chart-bar"></i><br />
+- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
+- <a href='/psicometria' >Psicometría <i class="fas fa-weight"></i></a><br />
+- <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
 
 education:
   courses:

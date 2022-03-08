@@ -27,60 +27,74 @@
     weight = 20
 
   [[main]]
-    identifier = "asesores1"
+    identifier = "asesores01"
     name = "Normas APA"
     url = "apa/"
     parent = "asesores"
     weight = 25
 
   [[main]]
-    identifier = "asesores2"
+    identifier = "asesores02"
     name = "Psicometría"
     url = "psicometria/"
     parent = "asesores"
     weight = 30
 
   [[main]]
-    identifier = "asesores3"
+    identifier = "asesores03"
     name = "Aspectos Éticos"
     url = "etica/"
     parent = "asesores"
     weight = 35
 
   [[main]]
-    identifier = "asesores4"
+    identifier = "asesores04"
     name = "Métodos Cualitativos"
     url = "cuali/"
     parent = "asesores"
     weight = 40
 
   [[main]]
-    identifier = "asesores5"
+    identifier = "asesores05"
     name = "Métodos Mixtos"
     url = "mixtos/"
     parent = "asesores"
     weight = 45
 
   [[main]]
-    identifier = "asesores6"
+    identifier = "asesores06"
     name = "Métodos Cuantitativos"
     url = "cuanti/"
     parent = "asesores"
     weight = 50
 
   [[main]]
-    identifier = "asesores7"
+    identifier = "asesores07"
     name = "Estadística"
     url = "stats/"
     parent = "asesores"
     weight = 55
 
   [[main]]
-    identifier = "asesores8"
+    identifier = "asesores08"
     name = "Diseños Experimentales"
     url = "exp/"
     parent = "asesores"
     weight = 60
+
+  [[main]]
+    identifier = "asesores09"
+    name = "Estudios Feministas y de Género"
+    url = "genero/"
+    parent = "asesores"
+    weight = 62
+
+  [[main]]
+    identifier = "asesores10"
+    name = "Programación en R"
+    url = "rstats/"
+    parent = "asesores"
+    weight = 63
 
 [[main]]
   name = "Recursos"

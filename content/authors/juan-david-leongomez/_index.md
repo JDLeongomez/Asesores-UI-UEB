@@ -21,10 +21,10 @@ organizations:
 bio:
 
 interests:
-- Métodos Cuantitativos <i class="fas fa-ruler"></i><br/>
-- Diseños Experimentales <i class="fas fa-vials"></i><br/>
-- Estadística <i class="fas fa-chart-bar"></i><br/>
-- Programación en <i class="fab fa-r-project"></i><br/>
+- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
+- <a href='/exp' >Diseños Experimentales <i class="fas fa-vials"></i></a><br />
+- <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
+- <a href='/rstats' >Programación en R <i class="fab fa-r-project"></i></a><br />
 
 education:
   courses:
@@ -77,6 +77,7 @@ user_groups:
 - Métodos Cuantitativos
 - Diseños Experimentales
 - Estadística
+- Programación en R
 - Nuestros asesores
 
 # Highlight the author in author lists? (true/false)
