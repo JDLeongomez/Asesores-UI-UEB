@@ -24,17 +24,17 @@ interests:
 - <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
 - <a href='/exp' >Diseños Experimentales <i class="fas fa-vials"></i></a><br />
 - <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
-- <a href='/rstats' >Programación en R <i class="fab fa-r-project"></i></a><br />
+- <a href='/rstats' >Programación en <i class="fab fa-r-project"></i></a><br />
 
 education:
   courses:
   - course: PhD, Psychology, School of Natural Sciences
-    institution: University of Stirling (Stirling, Reino Unido)
+    institution: University of Stirling (Stirling, Escocia, Reino Unido)
     year: 2014
   - course: MSc in Evolutionary Psychology
-    institution: University of Liverpool (Liverpool, Reino Unido)
+    institution: University of Liverpool (Liverpool, Inglaterra, Reino Unido)
     year: 2009
-  - course: Licenciatura en Pedagogía Musical
+  - course: Pedagogía Musical
     institution: Universidad Pedagógica Nacional (Bogotá, Colombia)
     year: 2006
 
@@ -88,6 +88,7 @@ highlight_name: true
 
 * **Formulación y diseño de investigaciones experimentales**, incluyendo cálculo de tamaño de muestra con base en [análisis de poder estadístico](/post/power/)
 * **Modelado estadístico en <i class="fab fa-r-project"></i>:** Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos, *Machine Learning*
+* **Meta-análisis** en [*jamovi*](https://asesores-psic.netlify.app/post/meta/) (pruebas *t*, correlaciones) o [<i class="fab fa-r-project"></i>](https://asesores-psic.netlify.app/post/meta_corr/) (correlaciones)
 * **Informes reproducibles y ciencia abierta:** Markdown/Rmarkdown (incluyendo $\LaTeX$ y HTML<i class="fab fa-html5"></i>)
 
 <span style="color: #f68212;"><i class="fas fa-calendar-check"></i>&nbsp;</span> [Solicitar una cita](https://calendly.com/jleongomez)

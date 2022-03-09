@@ -31,7 +31,7 @@ education:
     institution: Universitat De Valencia (Valencia, España)
     year: 2017
   - course: MSc en Métodos de Investigación en Psicología
-    institution: University Of Liverpool (Liverpool, Reino Unido)
+    institution: University Of Liverpool (Liverpool, Inglaterra, Reino Unido)
     year: 2010
   - course: Psicología
     institution: Universidad El Bosque (Bogotá, Colombia)

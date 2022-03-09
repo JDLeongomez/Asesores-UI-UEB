@@ -49,24 +49,19 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:
 ---
-La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/view.php?id=3640) de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia/) de la [Universidad El Bosque](https://www.unbosque.edu.co) ofrece asesorías metodológicas a docentes y estudiantes de posgrado y pregrado, por medio de sus [asesores](#people).
+La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/view.php?id=3640) de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia/) de la [Universidad El Bosque](https://www.unbosque.edu.co) ofrece asesorías metodológicas a sus docentes y estudiantes de posgrado y pregrado, por medio de [nuestros asesores](#people).
 
 ## Pasos para solicitar una asesoría
 
 1. Revisa en el [**listado de los asesores**](/asesores) con que cuenta la Unidad de Investigaciones y **consulta los detalles y datos de contacto** de los mismos entrando a sus perfiles
 2. Solicita la asesoría con **5 días calendario** de anticipación; el asesor te asignará una cita dentro de su disponibilidad de tiempo
-3. Envía o muestra al asesor **información de la investigación** <details class="details-example">
-    <summary style="color:#f68212;">Ver requisitos</summary>
-    <p>Para poder adelantar un adecuado proceso de asesoría, es importante que le hagas llegar o muestres al asesor, la siguiente información:</p>
-    <ul>
-        <li>Titulo exacto del proyecto</li>
-        <li>Problema de investigación</li>
-        <li>Objetivos de la investigación (general y específicos)</li>
-        <li>Marco metodológico de la investigación (método o diseño, instrumentos y/o cuestionarios, participantes y/o muestra).</li>
-        <li>Copia del último documento entregado a la Unidad de Investigaciones o a los jurados</li>
-        <li>Cualquier otra información que el asesor solicite o que el director crea pertinente</li>
-    </ul>
-</details>
+3. Envía o muestra al asesor **información de la investigación:**
+    * Titulo exacto del proyecto
+    * Problema de investigación
+    * Objetivos de la investigación (general y específicos)
+    * Marco metodológico de la investigación (método o diseño, instrumentos y/o cuestionarios, participantes y/o muestra)
+    * Copia del último documento entregado a la Unidad de Investigaciones o a los jurados
+    * Cualquier otra información que el asesor solicite o que el director crea pertinente
 
 **NOTA:** En la asesoría es indispensable contar con la presencia del director del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
 

@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Asesores Metodológicos | Métodos Mixtos"
+subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada uno de nuestros asesores haciendo clic en sus perfiles"
 
 [content]
   # Choose which groups/teams of users to display.
@@ -20,7 +20,7 @@ subtitle = ""
   show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
