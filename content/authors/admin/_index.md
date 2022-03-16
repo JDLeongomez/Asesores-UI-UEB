@@ -34,7 +34,7 @@ social:
   link: mailto:cinvestigapsico@unbosque.edu.co
 - icon: globe
   icon_pack: fa
-  link: https://aulavirtual.unbosque.edu.co/course/view.php?id=3640
+  link: https://www.psicologia.unbosque.edu.co/investigacion
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

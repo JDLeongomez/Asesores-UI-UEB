@@ -89,7 +89,7 @@ phone = "(+57) 601-6489000 Ext. 1284"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Facultad de Psicología, Universidad El Bosque. Av. Cra 9 No. 131 A - 02, Edificio Fundadores", city = "Bogotá", region = "DC", postcode = "110121", country = "Colombia", country_code = "CO"}
+address = {street = "Facultad de Psicología, Universidad El Bosque. Av. Cra 9 No. 131 A - 02, Edificio Fundadores, Segundo Piso", city = "Bogotá", region = "DC", postcode = "110121", country = "Colombia", country_code = "CO"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -108,6 +108,8 @@ office_hours = []
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+{icon = "globe", icon_pack = "fa", name = "Sitio web", link = "https://www.psicologia.unbosque.edu.co/investigacion"},
+{icon = "users", icon_pack = "fa", name = "Aula virtual", link = "https://aulavirtual.unbosque.edu.co/login/index.php"}
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
