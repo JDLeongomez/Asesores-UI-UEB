@@ -48,6 +48,14 @@ content:
       tag: Valores p
     - name: Meta-análisis
       tag: Meta-análisis
+    - name: Ciencia Abierta
+      tag: Ciencia Abierta
+    - name: Replicabilidad
+      tag: Replicabilidad
+    - name: Generalizabilidad
+      tag: Generalizabilidad      
+    - name: Reproducibilidad
+      tag: Reproducibilidad      
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
