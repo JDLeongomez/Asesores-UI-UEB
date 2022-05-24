@@ -8,12 +8,12 @@ active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
 title = " "
-subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada uno de nuestros asesores hacienco clic en sus perfiles"
+subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada una de nuestras asesoras o asesores haciendo clic en sus perfiles"
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Nuestros asesores"]
+  user_groups = ["Asesoras y asesores metodológicos"]
 
 [design]
   # Show user's social networking links? (true/false)

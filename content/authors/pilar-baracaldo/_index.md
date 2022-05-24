@@ -70,7 +70,7 @@ user_groups:
 - Métodos Cualitativos
 - Métodos Mixtos
 - Estudios Feministas y de Género
-- Nuestros asesores
+- Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -5,7 +5,7 @@ headless: true
 weight: 20
 
 title: Recursos metodológicos
-subtitle: Encuentra guías, videos, documentos y otros recursos metodológicos creados por nuestros asesores
+subtitle: Encuentra guías, videos, documentos y otros recursos metodológicos creados por nuestras asesoras y asesores
 
 content:
   # Page type to display. E.g. post, event, or publication.

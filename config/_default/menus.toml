@@ -9,13 +9,13 @@
 #  weight = 10
 
 [[main]]
-  name = "Nuestros asesores"
+  name = "Nuestras asesoras y asesores"
   url = "#people"
   weight = 10
 
 [[main]]
   identifier = "asesores"
-  name = "Asesores por área"
+  name = "Asesoras y asesores por área"
   url = "people/"
   weight = 20
 
@@ -91,7 +91,7 @@
 
   [[main]]
     identifier = "asesores00"
-    name = "<b>Ver asesores de todas las áreas</b>"
+    name = "<b>Todas las áreas</b>"
     url = "asesores/"
     parent = "asesores"
     weight = 70

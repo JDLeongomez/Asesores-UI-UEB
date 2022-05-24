@@ -78,7 +78,7 @@ user_groups:
 - Diseños Experimentales
 - Estadística
 - Programación en R
-- Nuestros asesores
+- Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -86,11 +86,12 @@ highlight_name: true
 
 # **Asesorías en:**
 
-* **Formulación y diseño de investigaciones experimentales**, incluyendo cálculo de tamaño de muestra con base en [análisis de poder estadístico](/post/power/)
-* **Modelado estadístico en <i class="fab fa-r-project"></i>:** Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos, *Machine Learning*
-* **Meta-análisis** en [*jamovi*](https://asesores-psic.netlify.app/post/meta/) (pruebas *t*, correlaciones) o [<i class="fab fa-r-project"></i>](https://asesores-psic.netlify.app/post/meta_corr/) (correlaciones)
-* **Informes reproducibles y ciencia abierta:** Markdown/Rmarkdown (incluyendo $\LaTeX$ y HTML<i class="fab fa-html5"></i>)
+-   **Formulación y diseño de investigaciones experimentales**, incluyendo cálculo de tamaño de muestra con base en [análisis de poder estadístico](/post/power/)
+-   **Modelado estadístico en** <i class="fab fa-r-project"></i>: Modelado estadístico, modelos de efectos mixtos, selección y promediación de modelos a partir de criterios de información, *Machine Learning*
+-   **Meta-análisis** en [*jamovi*](https://asesores-psic.netlify.app/post/meta/) (pruebas *t*, correlaciones) o [<i class="fab fa-r-project"></i> ](https://asesores-psic.netlify.app/post/meta_corr/) (correlaciones simples o con moderadores \[meta-regresión\] incluyendo análisis sesgos de tamaños muestrales pequeños y sesgos de publicación, y análisis de poder estadístico de estudios meta-analizados y del meta-análisis mismo)
+-   **Informes reproducibles:** [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html) (incluyendo código $\LaTeX$, HTML<i class="fab fa-html5"></i> y citas y referencias en BibTeX)
+-   **Ciencia abierta:** Apoyo para [pre-registro](https://help.osf.io/article/330-welcome-to-registrations) de hipótesis o [reportes registrados](https://cos.io/rr) (en las revistas que hayan adoptado este modelo), alojamiento de *pre-prints* (e.g. [PsyArXiv](https://psyarxiv.com/) <i class="ai ai-psyarxiv-square"></i>, [bioRxiv](https://www.biorxiv.org/) <i class="ai ai-biorxiv-square"></i>, [Zenodo](https://zenodo.org/)) y alojamiento de proyectos ([OSF](https://osf.io/) <i class="ai ai-osf-square"></i>, [figshare](https://figshare.com/) <i class="ai ai-figshare-square"></i>) incluyendo código, materiales, protocolos y/o bases de datos
 
-<span style="color: #f68212;"><i class="fas fa-calendar-check"></i>&nbsp;</span> [Solicitar una cita](https://calendly.com/jleongomez)
+<span style="color: #f68212;"><i class="fas fa-calendar-check"></i> </span> [Solicitar una cita](https://calendly.com/jleongomez)
 
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i> </span>**Para contactarme por email o conocer más de [mi trabajo](https://jdleongomez.info/es/), haz clic en los íconos bajo mi nombre**
