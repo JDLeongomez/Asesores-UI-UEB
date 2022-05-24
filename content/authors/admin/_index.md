@@ -37,7 +37,7 @@ social:
   link: https://www.psicologia.unbosque.edu.co/investigacion
 - icon: phone
   icon_pack: fa
-  link: /#contact
+  link: tel:+576016489000p1284
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
