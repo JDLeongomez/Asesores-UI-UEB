@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-- <a href='/mixtos' >Métodos Mixtos <i class="fas fa-bezier-curve"></i></a><br />
-- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
-- <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
+#- <a href='/mixtos' >Métodos Mixtos <i class="fas fa-bezier-curve"></i></a><br />
+#- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
+#- <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
 
 education:
   courses:
@@ -42,9 +42,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fa
-  link: mailto:reyesmariafr@unbosque.edu.co
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=vHGbm0sAAAAJ&hl
@@ -64,21 +61,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Métodos Mixtos
-- Estadística
-- Métodos Cuantitativos
-- Asesoras y asesores metodológicos
+##- Métodos Mixtos
+##- Estadística
+##- Métodos Cuantitativos
+##- Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-# **Asesorías en:**
-
-* **Formulación y diseño de la investigación**
-* **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, elaboración de plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
-* **Investigación Cualitativa** desde el enfoque de Teoría Fundamentada constructivista
-* **Métodos Mixtos de Investigación:** elección del diseño mixto de investigación,
-establecimiento de objetivos y modelo de análisis de datos
-
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
