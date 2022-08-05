@@ -14,7 +14,7 @@ role: Instructor Asistente - Ps
 
 # Organizations/Affiliations
 organizations:
-- name: Facultad de Psicología - Universidad El Bosque
+- name: "EvoCo: Laboratorio de Evolución y Comportamiento Humano | Facultad de Psicología | Universidad El Bosque"
   url: "https://www.unbosque.edu.co/psicologia"
 
 # Short bio (displayed in user profile at end of posts)

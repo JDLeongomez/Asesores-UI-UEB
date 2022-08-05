@@ -1,5 +1,5 @@
 ---
-title: "Video presentación pública: Ciencia abierta: necesidad, principios e iniciativas"
+title: "Ciencia abierta: necesidad, principios e iniciativas [Video presentación pública]"
 date: 2022-04-08T00:00:00
 authors: ["juan-david-leongomez"]
 summary: "Charla *¿Qué tan confiable es la literatura científica? Ciencia abierta como estrategia para enfrentar las implicaciones de la naturalización de malas prácticas y la crisis de la replicación*." 

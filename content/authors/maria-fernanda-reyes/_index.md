@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Fernanda Reyes
+title: Maria Fernanda Reyes Rodríguez
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ role: Profesora Asociada - PhD, MSc
 
 # Organizations/Affiliations
 organizations:
-- name: Facultad de Psicología - Universidad El Bosque
-  url: "https://www.unbosque.edu.co/psicologia"
+- name: "Escuela de Posgrados | Facultad de Ciencias Sociales | Universidad de los Andes"
+  url: "https://cienciassociales.uniandes.edu.co/posgrados/profesores/maria-fernanda-reyes-rodriguez/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -48,6 +48,12 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Maria-Reyes-10
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2645-5092
+- icon: cv
+  icon_pack: ai
+  link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001398597
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

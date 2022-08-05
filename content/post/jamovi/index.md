@@ -1,5 +1,5 @@
 ---
-title: "Serie de 2 videos: Introducción a jamovi [alternativa gratuita a SPSS]"
+title: "Introducción a jamovi (alternativa gratuita a SPSS) [Serie de 2 videos]"
 date: 2020-03-17T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En esta serie en dos partes, hago una introducción general a **jamovi**, un poderoso programa estadístico abierto y gratuito.
