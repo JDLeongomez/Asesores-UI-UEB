@@ -1,5 +1,5 @@
 ---
-title: "Video: Qué es un valor p? Te lo puedo mostrar gráficamente"
+title: "Qué es un valor p? Te lo puedo mostrar gráficamente [Video]"
 date: 2020-05-02T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En este video explico, de manera gráfica, y sin usar matemáticas, qué son los **valores** ***p***.
@@ -20,4 +20,4 @@ En este video explico, de manera gráfica, y sin usar matemáticas, qué son los
 Benning, S. D., Bradford, D. E., Buchanan, E. M., Caldwell, A. R., Van Calster, B., Carlsson, R., Chen, S.-C., Chung, B., Colling, L. J., Collins, G. S., Crook, Z., . . . Zwaan, R. A. (2018). Justify your alpha. *Nature Human Behaviour, 2*(3), 168–171. https://doi.org/10.1038/s41562-018-0311-x
 
 **Script de R con el código usado para simular los datos y muestras, y para hacer las gráficas:** <br/>
-> https://drive.google.com/file/d/1gPmGWY9E84IWbvSE-SwnagprPPh8gJXP/view?usp=sharing
+> <a href="https://github.com/JDLeongomez/Investigacion_Abierta/blob/main/Valores%20p/Valores_p.R" target="_blank">https://github.com/JDLeongomez/Investigacion_Abierta/blob/main/Valores%20p/Valores_p.R</a>

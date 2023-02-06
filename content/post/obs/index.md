@@ -1,5 +1,5 @@
 ---
-title: "Video: Introducción a OBS Studio"
+title: "Introducción a OBS Studio [Video]"
 date: 2020-04-03T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En esta introducción básica a **OBS Studio** explico cómo capturar video y audio de varias fuentes, para grabar clases y tutoriales. 

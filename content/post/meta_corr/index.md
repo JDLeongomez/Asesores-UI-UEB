@@ -1,5 +1,5 @@
 ---
-title: "Guía: Meta-análisis de correlaciones en R (borrador)"
+title: "Meta-análisis de correlaciones en R (borrador) [Guía en PDF]"
 date: 2021-11-02T00:00:00
 authors: ["juan-david-leongomez"]
 summary: Este documento contiene todo el código explicaciones básicas, paso a paso, para hacer un meta-análisis en R. 
@@ -13,7 +13,7 @@ Este documento contiene todo el código explicaciones básicas, paso a paso, par
 
 {{< cta cta_text="Descargar documento PDF" cta_link="meta_corr.pdf" cta_new_tab="true" >}}
 
-### Fuentes citadas: 
+### Fuentes citadas en el resumen: 
 
 > Viechtbauer, W. (2010). Conducting Meta-Analyses inRwith themetaforPackage. *Journal of Statistical Software, 36*(3). https://doi.org/10.18637/jss.v036.i03
 

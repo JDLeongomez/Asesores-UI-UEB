@@ -14,7 +14,7 @@ role: Profesor Asociado - MSc
 
 # Organizations/Affiliations
 organizations:
-- name: Facultad de Psicología - Universidad El Bosque
+- name: Facultad de Psicología | Universidad El Bosque
   url: "https://www.unbosque.edu.co/psicologia"
 
 # Short bio (displayed in user profile at end of posts)

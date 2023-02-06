@@ -1,5 +1,5 @@
 ---
-title: "Serie de 3 videos y guía en PDF: Poder estadístico y tamaño de muestra en R"
+title: "Poder estadístico y tamaño de muestra en R [Serie de 3 videos y guía en PDF]"
 date: 2020-09-03T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En esta serie/guía, explico cómo hacer **análisis de poder estadístico** (o potencia estadística)  para calcular el **tamaño de muestra** necesario para un estudio.

@@ -1,5 +1,5 @@
 ---
-title: "Video: Hacer meta-análisis en jamovi es muy fácil"
+title: "Hacer meta-análisis en jamovi es muy fácil [Video] "
 date: 2021-05-09T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En este video hago una introducción básica al **meta-análisis**, y explico cómo meta-analizar coeficientes de correlación y comparaciones de 2 medias en [jamovi](https://www.jamovi.org/). 
