@@ -47,12 +47,12 @@
     parent = "asesores"
     weight = 35
 
-  [[main]]
-    identifier = "asesores05"
-    name = "Métodos Mixtos"
-    url = "mixtos/"
-    parent = "asesores"
-    weight = 40
+#  [[main]]
+#    identifier = "asesores05"
+#    name = "Métodos Mixtos"
+#    url = "mixtos/"
+#    parent = "asesores"
+#    weight = 40
 
   [[main]]
     identifier = "asesores06"
@@ -75,12 +75,12 @@
     parent = "asesores"
     weight = 55
 
-  [[main]]
-    identifier = "asesores09"
-    name = "Estudios Feministas y de Género"
-    url = "genero/"
-    parent = "asesores"
-    weight = 60
+#  [[main]]
+#    identifier = "asesores09"
+#    name = "Estudios Feministas y de Género"
+#    url = "genero/"
+#    parent = "asesores"
+#    weight = 60
 
   [[main]]
     identifier = "asesores10"
