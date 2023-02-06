@@ -67,21 +67,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Métodos Cualitativos
-- Métodos Mixtos
-- Estudios Feministas y de Género
-- Asesoras y asesores metodológicos
+##- Métodos Cualitativos
+##- Métodos Mixtos
+##- Estudios Feministas y de Género
+##- Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-# **Asesorías en:**
-
-* **Métodos cualitativos:** Diseño de investigaciones cualitativas, estructuras metodológicas y diferentes estrategias de investigación social y comunitaria
-* **Métodos Mixtos:** Diseño de estudios mixtos en la fundamentación de sus estrategias metodológicas y formas de recolección de información
-* **Creación y generación** de diferentes formas de **divulgación científica**
-* **Diseño de proyectos** de desarrollo y de intervención psicosocial
-
-
-<span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
