@@ -60,7 +60,7 @@ social:
   link: https://www.researchgate.net/profile/Juan_Leongomez
 - icon: calendar-check
   icon_pack: fa
-  link: https://calendly.com/jleongomez
+  link: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1Q4rEtBU-OaEP8C56LfqyMcMpEl-P-_PQi6ZX8kRaK60xAzrpCKBAK6ynvv2_MinKvhOSwHSaf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -92,6 +92,6 @@ highlight_name: true
 -   **Informes reproducibles:** [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html) (incluyendo código $\LaTeX$, HTML<i class="fab fa-html5"></i> y citas y referencias en BibTeX, manuales o con integración con [Zotero](https://www.zotero.org/) <i class="ai ai-zotero-square"></i>)
 -   **Ciencia abierta:** Apoyo para [pre-registro](https://help.osf.io/article/330-welcome-to-registrations) de hipótesis o [reportes registrados](https://cos.io/rr) (en las revistas que hayan adoptado este modelo), alojamiento de *pre-prints* (e.g. [PsyArXiv](https://psyarxiv.com/) <i class="ai ai-psyarxiv-square"></i>, [bioRxiv](https://www.biorxiv.org/) <i class="ai ai-biorxiv-square"></i>, [Zenodo](https://zenodo.org/)) y alojamiento de proyectos ([OSF](https://osf.io/) <i class="ai ai-osf-square"></i>, [figshare](https://figshare.com/) <i class="ai ai-figshare-square"></i>, o [GitHub](https://github.com/) <i class="fab fa-github"></i> a través de [RStudio](https://www.rstudio.com)) incluyendo código, materiales, protocolos y/o bases de datos
 
-<span style="color: #f68212;"><i class="fas fa-calendar-check"></i></span> [Solicitar una cita](https://calendly.com/jleongomez)
+<span style="color: #f68212;"><i class="fas fa-calendar-check"></i></span> [Solicitar una cita](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1Q4rEtBU-OaEP8C56LfqyMcMpEl-P-_PQi6ZX8kRaK60xAzrpCKBAK6ynvv2_MinKvhOSwHSaf)
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i></span>**Para contactarme por email o conocer más de [mi trabajo](https://jdleongomez.info/es/), haz clic en los íconos bajo mi nombre**
