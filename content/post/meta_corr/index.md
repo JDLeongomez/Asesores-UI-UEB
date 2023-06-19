@@ -11,7 +11,7 @@ El meta-análisis es un método ampliamente utilizado para sintetizar los datos 
 **Cita:**
 > Leongómez, J.D. (2023). Meta-análisis de correlaciones y meta-regresión en R: Guía práctica. *MetaArXiv*. https://doi.org/10.31222/osf.io/yaxd4
 
-{{< cta cta_text="Descargar documento PDF" cta_link="https://osf.io/preprints/metaarxiv/yaxd4/download" cta_new_tab="true" >}}
+{{< cta cta_text="Descargar documento PDF" cta_link="https://asesores-psic.netlify.app/post/meta_corr/meta_corr.pdf" cta_new_tab="true" >}}
 
 ### Fuentes citadas en el resumen:
 
