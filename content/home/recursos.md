@@ -5,7 +5,7 @@ headless: true
 weight: 20
 
 title: Recursos metodológicos
-subtitle: Encuentra guías, videos, documentos y otros recursos metodológicos creados por nuestras asesoras y asesores
+subtitle: Encuentra guías, videos, documentos, apps y otros recursos metodológicos creados por nuestras asesoras y asesores
 
 content:
   # Page type to display. E.g. post, event, or publication.
@@ -22,6 +22,8 @@ content:
   filter_button:
     - name: Todo
       tag: '*'
+    - name: Apps
+      tag: App
     - name: Software
       tag: Software
     - name: Estadística
