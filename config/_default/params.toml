@@ -109,7 +109,7 @@ office_hours = []
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
 {icon = "globe", icon_pack = "fa", name = "Sitio web", link = "https://www.psicologia.unbosque.edu.co/investigacion"},
-{icon = "users", icon_pack = "fa", name = "Aula virtual", link = "https://aulavirtual.unbosque.edu.co/login/index.php"}
+{icon = "users", icon_pack = "fa", name = "Aula virtual", link = "https://bosquedigital.unbosque.edu.co/d2l/home/12785"}
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},

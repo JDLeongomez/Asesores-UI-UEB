@@ -52,7 +52,11 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:
 ---
-La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/view.php?id=2615) de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia/) de la [Universidad El Bosque](https://www.unbosque.edu.co) ofrece asesorías metodológicas a sus docentes y estudiantes de posgrado y pregrado, por medio de nuestras [**asesoras y asesores**](#people).
+La [**Unidad de Investigaciones**](https://bosquedigital.unbosque.edu.co/d2l/home/12785) de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia/) de la [Universidad El Bosque](https://www.unbosque.edu.co) ofrece asesorías metodológicas a sus docentes y estudiantes de posgrado y pregrado, por medio de nuestras [**asesoras y asesores**](#people).
+
+## Recursos de aprendizaje
+
+Recuerda apoyarte siempre en los [**recursos metodológicos**](#recursos) (guías, videos y documentos) creados por nuestras asesoras y asesores para apoyar el desarrollo de tus proyectos.
 
 ## Pasos para solicitar una asesoría
 
@@ -66,8 +70,4 @@ La [**Unidad de Investigaciones**](https://aulavirtual.unbosque.edu.co/course/vi
     * Copia del último documento entregado a la Unidad de Investigaciones o a los jurados
     * Cualquier otra información que el asesor solicite o que el director crea pertinente
 
-**NOTA:** En la asesoría es indispensable contar con la presencia del director o directora del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
-
-## Recursos de aprendizaje
-
-Recuerda apoyarte siempre en los [**recursos metodológicos**](#recursos) (guías, videos y documentos) creados por nuestras asesoras y asesores
+**NOTA:** En la asesoría es indispensable contar con la presencia del director o directora del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías. {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}

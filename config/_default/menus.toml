@@ -9,13 +9,13 @@
 #  weight = 10
 
 [[main]]
-  name = "Nuestras asesoras y asesores"
+  name = "Equipo de asesoras y asesores"
   url = "#people"
   weight = 10
 
 [[main]]
   identifier = "asesores"
-  name = "Asesoras y asesores por área"
+  name = "Asesoras/es por área"
   url = "people/"
   weight = 20
 
@@ -97,7 +97,7 @@
     weight = 70
 
 [[main]]
-  name = "Recursos"
+  name = "Recursos metodológicos"
   url = "#recursos"
   weight = 75
 
