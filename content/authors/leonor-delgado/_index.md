@@ -54,12 +54,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-1591-2729
-- icon: scopus
-  icon_pack: ai
-  link: https://www.scopus.com/authid/detail.uri?authorId=54941299300
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Leonor-Delgado-Abella
+#- icon: scopus
+#  icon_pack: ai
+#  link: https://www.scopus.com/authid/detail.uri?authorId=54941299300
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
