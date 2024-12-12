@@ -23,7 +23,6 @@ bio:
 interests:
 - <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
 - <a href='/psicometria' >Psicometría <i class="fas fa-weight"></i></a><br />
-- <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
 - <a href='/cuali' >Métodos Cualitativos <i class="fas fa-user-check"></i></a><br />
 
 education:
@@ -76,7 +75,6 @@ email: ""
 user_groups:
 - Métodos Cuantitativos
 - Psicometría
-- Estadística
 - Asesoras y asesores metodológicos
 - Métodos Cualitativos
 
@@ -90,5 +88,6 @@ highlight_name: true
 * **Psicometría:** creación y revisión de ítems, índices de confiabilidad, validez (contenido, estructura interna y relación con otras variables)
 * **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
 *	**Análisis** de datos cualitativos y construcción de resultado
+* **Construcción y validación de pruebas psicométricas** utilizando métodos mixtos
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**

@@ -23,7 +23,6 @@ bio:
 interests:
 - <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
 - <a href='/psicometria' >Psicometría <i class="fas fa-weight"></i></a><br />
-- <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
 
 education:
   courses:
@@ -75,7 +74,6 @@ email: ""
 user_groups:
 - Métodos Cuantitativos
 - Psicometría
-- Estadística
 - Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)
