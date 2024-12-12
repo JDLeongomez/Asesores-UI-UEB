@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Instructora Asociada - MSc
+role: Profesora Auxiliar 2 - MSc
 
 # Organizations/Affiliations
 organizations:

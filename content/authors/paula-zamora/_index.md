@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Paula Zamora
+title: Paula Viviana Zamora Correa
 
 # Username (this should match the folder name)
 authors:

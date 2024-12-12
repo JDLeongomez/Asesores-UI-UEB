@@ -21,8 +21,6 @@ organizations:
 bio: 
 
 interests:
-- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
-- <a href='/psicometria' >Psicometría <i class="fas fa-weight"></i></a><br />
 - <a href='/etica' >Aspectos Éticos <i class="fas fa-hand-holding-heart"></i></a><br />
 
 education:
@@ -64,8 +62,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Métodos Cuantitativos
-- Psicometría
+##- Métodos Cuantitativos
+##- Psicometría
 - Aspectos Éticos
 - Asesoras y asesores metodológicos
 
@@ -75,10 +73,6 @@ highlight_name: true
 
 # **Asesorías en:**
 
-* Aspectos metodológicos de corte cuantitativo
-* Aspectos psicométricos
-* Diseño de bases de datos
-* Procesamiento de datos
 * Aspectos éticos y bioéticos en investigación
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
