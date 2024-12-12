@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ángela Maria Orozco Gómez
+title: Angela Maria Orozco Gómez
 
 # Username (this should match the folder name)
 authors:
