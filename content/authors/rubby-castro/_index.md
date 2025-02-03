@@ -21,9 +21,8 @@ organizations:
 bio: 
 
 interests:
-- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
 - <a href='/psicometria' >Psicometría <i class="fas fa-weight"></i></a><br />
-- <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
+- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
 
 education:
   courses:
@@ -78,7 +77,6 @@ email: ""
 user_groups:
 - Métodos Cuantitativos
 - Psicometría
-- Estadística
 - Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)
@@ -87,8 +85,9 @@ highlight_name: true
 
 # **Asesorías en:**
 
-* **Diseño de la investigación:** diseño, objetivos, hipótesis y muestra
-* **Psicometría:** creación y revisión de ítems, índices de confiabilidad, validez (contenido, estructura interna y relación con otras variables)
-* **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
+* **Diseño de la investigación**: formulación de objetivos, selección del diseño o tipo de estudio más adecuado, desarrollo de hipótesis y definición de criterios de muestreo.
+* **Psicometría**: creación y revisión de ítems, evaluación de las propiedades psicométricas de los instrumentos (confiabilidad y evidencias de validez, incluyendo contenido, estructura interna y relación con otras variables).
+* **Análisis cuantitativo de datos**: construcción y estructuración de bases de datos, elaboración de planes de análisis, selección de técnicas estadísticas apropiadas y análisis e interpretación de los resultados.
+* **Metodología de formulación de proyectos**: aplicación del marco lógico para la estructuración de proyectos y uso de enfoques ágiles como *Design Thinking* y *Scrum*, incluyendo la planificación y ejecución de *sprints* para la entrega rápida de productos mínimos viables (*MVPs*).
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
