@@ -82,19 +82,26 @@
 #    parent = "asesores"
 #    weight = 60
 
-  [[main]]
+   [[main]]
     identifier = "asesores10"
+    name = "Revisiones y metaanálisis"
+    url = "revision/"
+    parent = "asesores"
+    weight = 65
+
+  [[main]]
+    identifier = "asesores11"
     name = "Programación en R"
     url = "rstats/"
     parent = "asesores"
-    weight = 65
+    weight = 70
 
   [[main]]
     identifier = "asesores00"
     name = "<b>Todas las áreas</b>"
     url = "asesores/"
     parent = "asesores"
-    weight = 70
+    weight = 75
 
 [[main]]
   name = "Recursos metodológicos"

@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
+- <a href='/revision' >Revisiones y metaanálisis <i class="fas fa-book"></i></a><br />
 - <a href='/psicometria' >Psicometría <i class="fas fa-weight"></i></a><br />
 
 education:
@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Métodos Cuantitativos
+- Revisiones y metaanálisis
 - Psicometría
 - Asesoras y asesores metodológicos
 
@@ -84,6 +84,6 @@ highlight_name: true
 
 * **Diseño de la investigación:** diseño, objetivos, hipótesis y muestra
 * **Psicometría:** creación y revisión de ítems, índices de confiabilidad, validez (contenido, estructura interna y relación con otras variables)
-* **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
+* **Revisiones:** revisiones sistemáticas, scoping review, metaanálisis
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
