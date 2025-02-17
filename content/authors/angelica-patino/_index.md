@@ -41,6 +41,9 @@ social:
 - icon: envelope
   icon_pack: fa
   link: mailto:ampatino@unbosque.edu.co
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ang%C3%A9lica-maria-pati%C3%B1o-724b43157/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,7 +67,8 @@ highlight_name: true
 
 # **Asesorías en:**
 
-* **Diseño de la investigación:** diseño, objetivos, hipótesis y muestra
+* **Diseño y evaluación de proyectos sociales:** trabajo con comunidades y trabajo interdisciplinar
 * **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
+* **Generación de indicadores:** Creación de indicadores cuantitativos y cualitativos
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
