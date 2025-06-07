@@ -60,7 +60,7 @@ social:
   link: https://www.researchgate.net/profile/Juan_Leongomez
 - icon: calendar-check
   icon_pack: fa
-  link: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1Q4rEtBU-OaEP8C56LfqyMcMpEl-P-_PQi6ZX8kRaK60xAzrpCKBAK6ynvv2_MinKvhOSwHSaf
+  link: https://outlook.office.com/bookwithme/user/071b7fd5aa8e49ed9ea7f2f0d5c98324@unbosque.edu.co?anonymous&ismsaljsauthenabled&ep=plink
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
