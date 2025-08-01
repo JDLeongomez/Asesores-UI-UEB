@@ -76,3 +76,4 @@ highlight_name: true
 * Aspectos éticos y bioéticos en investigación
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> jimenezhector@unbosque.edu.co</p>

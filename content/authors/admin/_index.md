@@ -71,3 +71,4 @@ Recuerda apoyarte siempre en los [**recursos metodológicos**](#recursos) (guía
     * Cualquier otra información que el asesor solicite o que el director crea pertinente
 
 **NOTA:** En la asesoría es indispensable contar con la presencia del director o directora del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías. {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
+<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> cinvestigapsico@unbosque.edu.co</p>

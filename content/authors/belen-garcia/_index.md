@@ -86,3 +86,4 @@ highlight_name: true
 * **Análisis** de datos cualitativos y construcción y socialización de resultados
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> bgarciac@unbosque.edu.co</p>

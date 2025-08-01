@@ -91,3 +91,4 @@ highlight_name: true
 * **Metodología de formulación de proyectos**: aplicación del marco lógico para la estructuración de proyectos y uso de enfoques ágiles como *Design Thinking* y *Scrum*, incluyendo la planificación y ejecución de *sprints* para la entrega rápida de productos mínimos viables (*MVPs*).
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
+<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> castrorubby@unbosque.edu.co</p>

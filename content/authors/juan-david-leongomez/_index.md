@@ -95,3 +95,5 @@ highlight_name: true
 <span style="color: #f68212;"><i class="fas fa-calendar-check"></i></span> [Solicitar una cita](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1Q4rEtBU-OaEP8C56LfqyMcMpEl-P-_PQi6ZX8kRaK60xAzrpCKBAK6ynvv2_MinKvhOSwHSaf)
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de [mi trabajo](https://jdleongomez.info/es/), haz clic en los íconos bajo mi nombre**
+
+<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> jleongomez@unbosque.edu.co</p>
