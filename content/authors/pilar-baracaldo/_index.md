@@ -75,4 +75,4 @@ user_groups:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> baracaldopilar@unbosque.edu.co</p>
+<p>&nbsp;<i class="fas fa-envelope" style="color: #f68212;"></i>&nbsp;<b>Email:</b> baracaldopilar@unbosque.edu.co</p>

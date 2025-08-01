@@ -20,7 +20,7 @@ for root, dirs, files in os.walk(carpeta_autores):
             match = re.search(r'link:\s*mailto:([^\s]+@unbosque\.edu\.co)', contenido)
             if match:
                 email = match.group(1)
-                bloque_html = f'\n<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> {email}</p>\n'
+                bloque_html = f'\n<p><i class="fas fa-envelope" style="color: #f68212;"></i>&nbsp;<b>Email:</b> {email}</p>\n'
                 nuevo_contenido = contenido.strip() + bloque_html  # Strip para evitar líneas vacías excesivas
 
                 with open(ruta, 'w', encoding='utf-8') as f:

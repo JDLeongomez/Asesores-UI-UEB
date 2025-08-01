@@ -77,5 +77,4 @@ highlight_name: true
 * **Análisis cuantitativo de datos:** Construcción y organización de bases de datos, plan de análisis de datos, elección de técnicas estadísticas e interpretación de resultados de los análisis
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
-
-<p><i class="fas fa-envelope" style="color: #f68212;"></i> <b>Email:</b> nmaldonadoa@unbosque.edu.co</p>
+<p>&nbsp;<i class="fas fa-envelope" style="color: #f68212;"></i>&nbsp;<b>Email:</b> nmaldonadoa@unbosque.edu.co</p>
