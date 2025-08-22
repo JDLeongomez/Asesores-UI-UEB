@@ -38,7 +38,7 @@ editor_options:
 <iframe
   id="marco-unificado"
   src="https://jdleongomez.github.io/justificacion_n/"
-  style="border: none; width: 100%; height: 1800px"
+  style="border: 3px solid #ccc; border-radius: 8px; width: 100%; height: 1800px"
   frameborder="0"
   loading="lazy">
 </iframe>
