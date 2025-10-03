@@ -92,7 +92,7 @@ highlight_name: true
 -   **Informes reproducibles:** [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html) (incluyendo código $\LaTeX$, HTML y citas y referencias en BibTeX, manuales o con integración con [Zotero](https://www.zotero.org/))
 -   **Ciencia abierta:** Apoyo para [pre-registro](https://help.osf.io/article/330-welcome-to-registrations) de hipótesis o [reportes registrados](https://cos.io/rr) (en las revistas que hayan adoptado este modelo), alojamiento de *pre-prints* (e.g. [PsyArXiv](https://psyarxiv.com/), [bioRxiv](https://www.biorxiv.org/), [Zenodo](https://zenodo.org/)) y alojamiento de proyectos ([OSF](https://osf.io/) o [GitHub](https://github.com/) a través de [RStudio](https://www.rstudio.com)) incluyendo código, materiales, protocolos y/o bases de datos
 
-<span style="color: #f68212;"><i class="fas fa-calendar-check"></i></span> [Solicitar una cita](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1Q4rEtBU-OaEP8C56LfqyMcMpEl-P-_PQi6ZX8kRaK60xAzrpCKBAK6ynvv2_MinKvhOSwHSaf)
+<span style="color: #f68212;"><i class="fas fa-calendar-check"></i></span> [Solicitar una cita](https://outlook.office.com/bookwithme/user/071b7fd5aa8e49ed9ea7f2f0d5c98324@unbosque.edu.co?anonymous&ismsaljsauthenabled&ep=plink)
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de [mi trabajo](https://jdleongomez.info/es/), haz clic en los íconos bajo mi nombre**
 
