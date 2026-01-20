@@ -1,5 +1,5 @@
 ---
-title: "Estimador de Puntajes para Proyectos de Investigación"
+title: "Estimador de Puntajes para Proyectos de Investigación [App]"
 date: 2026-01-20T00:00:00
 lastmod: 2025-06-03T00:00:00
 authors: ["juan-david-leongomez"]

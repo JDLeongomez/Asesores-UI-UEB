@@ -66,7 +66,7 @@ design:
   #   1 = List
   #   2 = Compact  
   #   3 = Card
-  #   5 = Showcase
+  #   4 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true

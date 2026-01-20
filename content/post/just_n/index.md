@@ -1,5 +1,5 @@
 ---
-title: "Just-N Framework: Marco unificado para justificar tamaños de muestra en estudios cuantitativos, cualitativos, o mixtos"
+title: "Just-N Framework: Marco unificado para justificar tamaños de muestra en estudios cuantitativos, cualitativos, o mixtos [Documento interactivo]"
 date: 2025-08-22T00:00:00
 lastmod: 2025-08-23T00:00:00
 authors: ["juan-david-leongomez"]
