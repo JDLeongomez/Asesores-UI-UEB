@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Profesora Catedrática - PhD
+role: Profesora Asociada - PhD
 
 # Organizations/Affiliations
 organizations:
