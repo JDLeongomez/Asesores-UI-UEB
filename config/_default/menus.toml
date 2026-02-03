@@ -97,11 +97,25 @@
     weight = 70
 
   [[main]]
+    identifier = "asesores12"
+    name = "Neurociencia Cognitiva"
+    url = "neuro/"
+    parent = "asesores"
+    weight = 75
+
+  [[main]]
+    identifier = "asesores13"
+    name = "Eye Tracking y Métodos de Atención Visual"
+    url = "eye/"
+    parent = "asesores"
+    weight = 80
+
+  [[main]]
     identifier = "asesores00"
     name = "<b>Todas las áreas</b>"
     url = "asesores/"
     parent = "asesores"
-    weight = 75
+    weight = 100
 
 [[main]]
   name = "Recursos metodológicos"

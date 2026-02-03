@@ -14,15 +14,15 @@ role: Profesor Asociado - PhD, MSc
 
 # Organizations/Affiliations
 organizations:
-- name: "EvoCo: Laboratorio de Evolución y Comportamiento Humano | Facultad de Psicología | Universidad El Bosque"
-  url: "https://www.psicologia.unbosque.edu.co/lach"
+- name: "CODEC: Ciencias Cognitivas y del Comportamiento | Facultad de Psicología | Universidad El Bosque"
+  url: "https://unbosque.portalinvestigacion.com/grupos/302"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
-- <a href='/exp' >Diseños Experimentales <i class="fas fa-vials"></i></a><br />
+- <a href='/exp' >Diseños Experimentales y Observacionales <i class="fas fa-vials"></i></a><br />
 - <a href='/stats' >Estadística <i class="fas fa-chart-bar"></i></a><br />
 - <a href='/rstats' >Programación en <i class="fab fa-r-project"></i></a><br />
 
@@ -54,7 +54,7 @@ social:
   link: https://www.youtube.com/c/InvestigaciónAbierta
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=8Q0jKHsAAAAJ&hl.
+  link: https://scholar.google.com/citations?user=8Q0jKHsAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
