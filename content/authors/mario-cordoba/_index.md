@@ -59,6 +59,7 @@ email: ""
 user_groups:
 - Métodos Cuantitativos
 - Métodos Mixtos
+- Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
