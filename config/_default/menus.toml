@@ -47,12 +47,12 @@
     parent = "asesores"
     weight = 35
 
-#  [[main]]
-#    identifier = "asesores05"
-#    name = "Métodos Mixtos"
-#    url = "mixtos/"
-#    parent = "asesores"
-#    weight = 40
+  [[main]]
+    identifier = "asesores05"
+    name = "Métodos Mixtos"
+    url = "mixtos/"
+    parent = "asesores"
+    weight = 40
 
   [[main]]
     identifier = "asesores06"

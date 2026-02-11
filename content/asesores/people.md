@@ -23,7 +23,8 @@ subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofre
                  "Diseños Experimentales",
                  "Estudios Feministas y de Género",
                  "Revisiones y metaanálisis",
-                 "Programación en R"]
+                 "Programación en R",
+                 "Eye Tracking y Métodos de Atención Visual"]
 
 [design]
   # Show user's social networking links? (true/false)
