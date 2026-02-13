@@ -69,7 +69,7 @@ highlight_name: true
 
 -   **Análisis de datos cuantitativos**.
 -   **Procesos de sistematización de procesos y experiencias**. 
--   **Evaluación de proyectos e intervencione**.
+-   **Evaluación de proyectos e intervenciones**.
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
 
