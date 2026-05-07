@@ -22,6 +22,12 @@ editor_options:
 > tiempo. Si encuentras errores, tienes bibliografía pertinente o alguna
 > sugerencia, por favor escríbeme a <jleongomez@unbosque.edu.co>.
 
+## Recurso complementario
+
+Este documento es la versión estática del Just-N Framework. También está disponible una
+[**aplicación interactiva**](../just_n_app/) que incluye árboles de decisiones,
+calculadoras integradas y simulaciones Monte Carlo para los tres paradigmas de investigación.
+
 ## Versión en línea
 
 - Página HTML: **<https://jdleongomez.github.io/just_n/>**
@@ -51,7 +57,7 @@ editor_options:
 
 ## Descripción breve
 
-![](https://raw.githubusercontent.com/JDLeongomez/just_n/refs/heads/master/just-n-logo.svg)
+![](https://raw.githubusercontent.com/JDLeongomez/just_n/refs/heads/master/just-n-logo.png)
 
 El **Just-N Framework** resume y unifica estrategias para justificar tamaños de
 muestra en **estudios cuantitativos**, **cualitativos** y **mixtos**:

@@ -1,0 +1,13 @@
+---
+widget: blank
+active: true
+headless: true
+weight: 15
+title: Cómo solicitar una asesoría
+subtitle:
+design:
+  columns: "1"
+  spacing:
+    padding: ["40px", "0", "40px", "0"]
+---
+<div class="container"><div class="row g-4 justify-content-center text-center mt-2"><div class="col-12 col-md-4"><div style="border-top: 4px solid #f68212; padding: 2em 1.5em; background: #ffffff; border-radius: 8px; height: 100%; box-shadow: 0 2px 12px rgba(0,0,0,0.07);"><div style="font-size: 2.2em; color: #f68212; margin-bottom: 0.6em;"><i class="fas fa-search"></i></div><h3 style="font-size: 1.1em; font-weight: 700; margin-bottom: 0.6em;">1 · Encuentra tu asesor/a</h3><p style="color: #555; font-size: 0.95em; margin: 0;">Revisa el <a href="/asesores">listado de asesoras y asesores</a> y consulta los temas cubiertos haciendo clic en su perfil. Una vez hayas identificado la persona ideal, confirma sus datos de contacto.</p></div></div><div class="col-12 col-md-4"><div style="border-top: 4px solid #f68212; padding: 2em 1.5em; background: #ffffff; border-radius: 8px; height: 100%; box-shadow: 0 2px 12px rgba(0,0,0,0.07);"><div style="font-size: 2.2em; color: #f68212; margin-bottom: 0.6em;"><i class="fas fa-calendar-check"></i></div><h3 style="font-size: 1.1em; font-weight: 700; margin-bottom: 0.6em;">2 · Solicita la cita</h3><p style="color: #555; font-size: 0.95em; margin: 0;">Pide la asesoría con <strong>5 días calendario</strong> de anticipación. El asesor o asesora te asignará una cita dentro de su disponibilidad de tiempo.</p></div></div><div class="col-12 col-md-4"><div style="border-top: 4px solid #f68212; padding: 2em 1.5em; background: #ffffff; border-radius: 8px; height: 100%; box-shadow: 0 2px 12px rgba(0,0,0,0.07);"><div style="font-size: 2.2em; color: #f68212; margin-bottom: 0.6em;"><i class="fas fa-file-alt"></i></div><h3 style="font-size: 1.1em; font-weight: 700; margin-bottom: 0.6em;">3 · Prepara la información</h3><p style="color: #555; font-size: 0.95em; margin: 0;">Comparte título del proyecto, problema, objetivos, marco metodológico y copia del último documento entregado. Es indispensable la presencia del <strong>director/a del proyecto</strong>.</p></div></div></div><div class="text-center mt-4"><p style="color: #666; font-size: 0.9em;"><i class="fas fa-info-circle" style="color: #f68212;"></i>&nbsp; No olvides diligenciar el formato de seguimiento de asesorías en cada sesión.</p><a href="/uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" style="display: inline-block; padding: 0.6em 1.6em; background-color: #f68212; color: #ffffff; font-weight: 600; border-radius: 6px; text-decoration: none; font-size: 0.95em;">Descargar formato</a></div></div>

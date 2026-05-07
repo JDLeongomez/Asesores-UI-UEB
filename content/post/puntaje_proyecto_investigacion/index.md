@@ -4,7 +4,7 @@ date: 2026-01-20T00:00:00
 lastmod: 2025-06-03T00:00:00
 authors: ["juan-david-leongomez"]
 summary: "Aplicación que calcula el puntaje requerido para proyectos de investigación según su categoría y duración del contrato, y también permite registrar los productos de investigación para verificar si se alcanzan los puntajes necesarios."
-tags: ["App", "Aplicación", "Software", "R", "Puntaje", "Proyectos de investigación"]
+tags: ["App", "Software", "R", "Puntaje", "Proyectos de investigación"]
 editor_options: 
   markdown: 
     wrap: 80
