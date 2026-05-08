@@ -3,7 +3,7 @@ title: "Meta-análisis de correlaciones en R [Video y guía en PDF]"
 date: 2023-04-07T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En este video/guía doy una introducción básica a la realización de meta-análisis de correlaciones utilizando R. 
-tags: ["Estadística", "Software", "Guía", "R", "Meta-análisis", "Correlación", "Tamaño de muestra"]
+tags: ["Estadística", "Software", "Guía", "R", "Meta-análisis", "Correlación", "Tamaño de muestra", "Métodos cuantitativos"]
 ---
 
 En este video hago una introducción general al meta-análisis de correlaciones en R, usando los paquetes [`metafor`](https://www.metafor-project.org/doku.php/metafor) y [`metaviz`](https://cran.r-project.org/web/packages/metaviz/vignettes/metaviz.html).

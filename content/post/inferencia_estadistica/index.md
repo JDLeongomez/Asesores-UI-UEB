@@ -4,7 +4,7 @@ date: 2026-04-14T00:00:00
 lastmod: 2026-04-14T00:00:00
 authors: ["juan-david-leongomez"]
 summary: "Presentación introductoria sobre los tres enfoques principales de inferencia estadística (frecuentista, verosimilitud y bayesiano) ilustrados con un ejemplo sencillo en R: lanzar una moneda 20 veces y observar 14 caras."
-tags: ["Estadística", "Inferencia", "Frecuentista", "Verosimilitud", "Bayesiana", "R", "Presentación", "Quarto"]
+tags: ["Estadística", "Inferencia", "Frecuentista", "Verosimilitud", "Bayesiana", "R", "Presentación", "Quarto", "Métodos cuantitativos"]
 editor_options: 
   markdown: 
     wrap: 80

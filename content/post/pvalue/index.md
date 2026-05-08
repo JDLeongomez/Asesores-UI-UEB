@@ -3,7 +3,7 @@ title: "¿Qué es un valor p? Te lo puedo mostrar gráficamente [Video]"
 date: 2020-05-02T00:00:00
 authors: ["juan-david-leongomez"]
 summary: En este video explico, de manera gráfica, y sin usar matemáticas, qué son los **valores** ***p***.
-tags: ["Estadística", "Valores p", "R", "Correlación", "Pruebas t"]
+tags: ["Estadística", "Valores p", "R", "Correlación", "Pruebas t", "Métodos cuantitativos"]
 ---
 
 En este video explico, de manera gráfica, y sin usar matemáticas, qué son los **valores** ***p***, una herramienta fundamental en estadística [frecuentista], pero sobre la que hay muchísimas confusiones que llevan a que su uso con frecuencia no sea correcto.

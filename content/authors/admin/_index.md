@@ -54,21 +54,4 @@ email: ""
 ---
 La [**Unidad de Investigaciones**](https://bosquedigital.unbosque.edu.co/d2l/home/12785) de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia/) de la [Universidad El Bosque](https://www.unbosque.edu.co) ofrece asesorías metodológicas a sus docentes y estudiantes de posgrado y pregrado, por medio de nuestras [**asesoras y asesores**](#people).
 
-## Recursos de aprendizaje
-
-Recuerda apoyarte siempre en los [**recursos metodológicos**](#recursos) (guías, videos y documentos) creados por nuestras asesoras y asesores para apoyar el desarrollo de tus proyectos.
-
-## Pasos para solicitar una asesoría
-
-1. Revisa en el listado de [**asesoras y asesores**](/asesores) con que cuenta la Unidad de Investigaciones y **consulta los temas cubiertos** por cada persona haciendo clic en su perfil. Una vez hayas encontrado la persona ideal para asesorarte, **confirma sus datos de contacto** 
-2. Solicita la asesoría con **5 días calendario** de anticipación; el asesor o asesora te asignará una cita dentro de su disponibilidad de tiempo
-3. Envía o muestra al asesor o asesora **información de la investigación:**
-    * Titulo exacto del proyecto
-    * Problema de investigación
-    * Objetivos de la investigación (general y específicos)
-    * Marco metodológico de la investigación (método o diseño, instrumentos y/o cuestionarios, participantes y/o muestra)
-    * Copia del último documento entregado a la Unidad de Investigaciones o a los jurados
-    * Cualquier otra información que el asesor solicite o que el director crea pertinente
-
-**NOTA:** En la asesoría es indispensable contar con la presencia del director o directora del proyecto de investigación y diligenciar el formato para el seguimiento de asesorías. {{< cta cta_text="Descargar formato" cta_link="../uploads/Resumen_de_Sesion_de_Asesorias_Metodologicas.doc" cta_new_tab="false" >}}
-<p>&nbsp;<i class="fas fa-envelope" style="color: #f68212;"></i>&nbsp;<b>Email:</b> cinvestigapsico@unbosque.edu.co</p>
+Apóyate en los [**recursos metodológicos**](#recursos) creados por nuestro equipo: guías, videos, documentos y aplicaciones interactivas.

@@ -3,7 +3,7 @@ title: "PowerSimulate [Serie de apps]"
 date: 2023-09-01T00:00:00
 authors: ["juan-david-leongomez"]
 summary: "PowerSimulate es una colección de aplicaciones R Shiny compactas diseñadas para llevar a cabo análisis de poder estadístico basados en simulación." 
-tags: ["Estadística", "App", "Aplicación", "Software", "R", "Tamaño de muestra", "n", "Correlación", "Pruebas t"]
+tags: ["Estadística", "App", "Software", "R", "Tamaño de muestra", "n", "Correlación", "Pruebas t", "ANOVA", "Métodos cuantitativos"]
 editor_options: 
   markdown: 
     wrap: 80
