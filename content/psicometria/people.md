@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
 title = "Asesorías Metodológicas | Psicometría"
-subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada una de nuestras asesoras o asesores **haciendo clic en sus perfiles**"
+subtitle = "Asesoría en construcción y validación de instrumentos, análisis de confiabilidad y validez. Haz clic en un perfil para ver los detalles de contacto."
 
 [content]
   # Choose which groups/teams of users to display.

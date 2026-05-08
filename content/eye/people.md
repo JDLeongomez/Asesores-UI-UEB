@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
 title = "Asesorías Metodológicas | Eye Tracking y Métodos de Atención Visual"
-subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada una de nuestras asesoras o asesores **haciendo clic en sus perfiles**"
+subtitle = "Apoyo en diseño de estudios con seguimiento ocular y análisis de datos de atención visual. Haz clic en un perfil para ver los detalles de contacto."
 
 [content]
   # Choose which groups/teams of users to display.

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 headless: true
-weight: 30
+weight: 40
 
 title: Recursos metodológicos
 subtitle: Encuentra guías, videos, documentos, apps y otros recursos metodológicos creados por nuestras asesoras y asesores
@@ -22,48 +22,26 @@ content:
   filter_button:
     - name: Todo
       tag: '*'
-    - name: ANOVA
-      tag: ANOVA
-    - name: Apps
-      tag: App
-    - name: Ciencia Abierta
-      tag: Ciencia Abierta
-    - name: Correlación
-      tag: Correlación
-    - name: Descriptivos
-      tag: Descriptivos
-    - name: Estadística
-      tag: Estadística
-    - name: Generalizabilidad
-      tag: Generalizabilidad
-    - name: Guía
-      tag: Guía
-    - name: Interseccionalidad
-      tag: Interseccionalidad
-    - name: jamovi
-      tag: jamovi
-    - name: Meta-análisis
-      tag: Meta-análisis
-    - name: Métodos cualitativos
-      tag: Métodos cualitativos
     - name: Métodos cuantitativos
       tag: Métodos cuantitativos
-    - name: Pruebas t
-      tag: Pruebas t
-    - name: R
-      tag: R
-    - name: Regresión
-      tag: Regresión
-    - name: Replicabilidad
-      tag: Replicabilidad
-    - name: Reproducibilidad
-      tag: Reproducibilidad
-    - name: Software
-      tag: Software
+    - name: Métodos cualitativos
+      tag: Métodos cualitativos
+    - name: Métodos mixtos
+      tag: Métodos mixtos
+    - name: Estadística
+      tag: Estadística
     - name: Tamaño de muestra
       tag: Tamaño de muestra
-    - name: Valores p
-      tag: Valores p
+    - name: Ciencia Abierta
+      tag: Ciencia Abierta
+    - name: Apps
+      tag: App
+    - name: Guía
+      tag: Guía
+    - name: R
+      tag: R
+    - name: jamovi
+      tag: jamovi
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

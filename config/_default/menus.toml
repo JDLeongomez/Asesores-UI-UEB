@@ -16,7 +16,7 @@
 [[main]]
   identifier = "asesores"
   name = "Asesoras/es por área"
-  url = "people/"
+  url = "asesores/"
   weight = 20
 
   [[main]]

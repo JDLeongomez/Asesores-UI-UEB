@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
 title = "Asesorías Metodológicas | Neurociencia Cognitiva"
-subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada una de nuestras asesoras o asesores **haciendo clic en sus perfiles**"
+subtitle = "Orientación en métodos y análisis propios de la neurociencia cognitiva. Haz clic en un perfil para ver los detalles de contacto."
 
 [content]
   # Choose which groups/teams of users to display.

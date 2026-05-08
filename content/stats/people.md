@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20 # Order that this section will appear.
 
 title = "Asesorías Metodológicas | Estadística"
-subtitle = "Consulta los datos de contacto y los detalles de las asesorías ofrecidas por cada una de nuestras asesoras o asesores **haciendo clic en sus perfiles**"
+subtitle = "Apoyo en análisis estadístico: descriptivos, pruebas de hipótesis, modelos de regresión, ANOVA, y más. Haz clic en un perfil para ver los detalles de contacto."
 
 [content]
   # Choose which groups/teams of users to display.

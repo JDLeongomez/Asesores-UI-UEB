@@ -1,0 +1,102 @@
+// === Hero banner (#image section) ===
+
+// Semi-transparent overlay to improve text readability without color-shifting the image.
+// Lives inside .home-section-bg (z-index: -1) so it sits above the image but below content.
+#image .home-section-bg::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.42);
+}
+
+.hero-content { text-align: center; }
+
+.hero-title {
+  color: #fff;
+  font-size: 2.8em;
+  font-weight: 700;
+  text-shadow:
+    -2px -2px 4px rgba(0, 0, 0, 0.85),
+     2px -2px 4px rgba(0, 0, 0, 0.85),
+    -2px  2px 4px rgba(0, 0, 0, 0.85),
+     2px  2px 4px rgba(0, 0, 0, 0.85),
+     0    0   14px rgba(0, 0, 0, 0.6);
+  margin-bottom: 0.4em;
+  line-height: 1;
+}
+
+.hero-subtitle {
+  color: #fff;
+  font-size: 1.2em;
+  text-shadow:
+    -1px -1px 1px rgba(0, 0, 0, 0.85),
+     1px -1px 3px rgba(0, 0, 0, 0.85),
+    -1px  1px 3px rgba(0, 0, 0, 0.85),
+     1px  1px 3px rgba(0, 0, 0, 0.85),
+     0    0   10px rgba(0, 0, 0, 0.6);
+  margin-bottom: 2em;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hero-btn {
+  display: inline-block;
+  padding: 0.75em 2em;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.05em;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.hero-btn-primary   { background-color: #f68212; }
+.hero-btn-secondary { background-color: #e2791d; }
+
+// === Shared card style (used in about and pasos sections) ===
+
+.section-card {
+  border-top: 4px solid #f68212;
+  padding: 2em 1.5em;
+  background: #fff;
+  border-radius: 8px;
+  height: 100%;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
+}
+
+.section-card-icon {
+  font-size: 2.2em;
+  color: #f68212;
+  margin-bottom: 0.6em;
+}
+
+.section-card-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  margin-bottom: 0.6em;
+}
+
+.section-card-text {
+  color: #555;
+  font-size: 0.95em;
+  margin: 0;
+}
+
+// === Download / action button (pasos section) ===
+
+.download-btn {
+  display: inline-block;
+  padding: 0.6em 1.6em;
+  background-color: #f68212;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.95em;
+}
