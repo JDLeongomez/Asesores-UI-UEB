@@ -48,7 +48,7 @@ social:
   link: mailto:mvasquezam@unbosque.edu.co
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=XgNEpfgAAAAJ
+  link: https://scholar.google.com/citations?user=X58RxbIAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Milena-Vasquez-Amezquita

@@ -7,3 +7,6 @@ assets/jsconfig.json
 .Rproj.user
 .Rproj
 .positai
+
+/.quarto/
+**/*.quarto_ipynb
