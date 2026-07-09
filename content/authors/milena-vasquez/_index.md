@@ -15,7 +15,7 @@ role: Profesora Asociada - PhD, MSc
 # Organizations/Affiliations
 organizations:
 - name: "CODEC: Ciencias Cognitivas y del Comportamiento | Facultad de Psicología | Universidad El Bosque"
-  url: "https://unbosque.portalinvestigacion.com/grupos/302"
+  url: "https://grupo-codec.netlify.app"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
