@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Profesor Asociado - PhD, MSc
+role: Profesor Titular - PhD, MSc
 
 # Organizations/Affiliations
 organizations:
