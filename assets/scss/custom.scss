@@ -1,3 +1,17 @@
+// === Custom SVG icons in social/network bars (e.g. CvLAC) ===
+
+.network-icon li a svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+}
+
+// In the about/profile widget, match the big-icon size (2rem)
+#profile .network-icon li a svg.big-icon-svg {
+  width: 2rem;
+  height: 2rem;
+}
+
 // === Hero banner (#image section) ===
 
 // Semi-transparent overlay to improve text readability without color-shifting the image.

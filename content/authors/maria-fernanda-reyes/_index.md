@@ -51,8 +51,8 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2645-5092
-- icon: cv
-  icon_pack: ai
+- icon: cvlac_mono
+  icon_pack: custom
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001398597
 
 # Link to a PDF of your resume/CV from the About widget.

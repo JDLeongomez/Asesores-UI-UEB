@@ -52,8 +52,8 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6033-1085
-- icon: cv
-  icon_pack: ai
+- icon: cvlac_mono
+  icon_pack: custom
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001636025
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,8 +68,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-## - Métodos Cualitativos
-## - Asesoras y asesores metodológicos
+- Métodos Cualitativos
+- Asesoras y asesores metodológicos
 
 # Highlight the author in author lists? (true/false)apas situacionales y de contexto
 highlight_name: true
@@ -77,11 +77,16 @@ highlight_name: true
 
 # **Asesorías en:**
 
-*	**Análisis de Contenido:** análisis de frecuencia de expresiones, palabras y conceptos
-* **Análisis Historiográfico:** mapas situacionales y de contexto
-* **Minería de Datos:** análisis a partir de técnicas de aprendizaje automático. Análisis de sentimientos.
-*	**Análisis Crítico del Discurso:** 
-*	**Proceso de investigación cualitativa:** diseño y formulación (planteamiento del problema, pregunta de investigación, objetivos, propuesta metodológica, métodos y técnicas de recolección de información, trabajo de campo)
+* **Análisis documental:** método amplio de trabajo con documentos preexistentes (textuales, visuales, audiovisuales y digitales)
+    *	**Análisis de Contenido:** análisis de frecuencia de expresiones, palabras y conceptos
+    *	**Minería de Datos:** big data, métodos digitales, análisis de redes, text mining y entornos digitales. Análisis de sentimientos (encuestas, redes sociales).
+* **Metodologías cualitativas interpretativas:** – críticas – constructivistas – participativas y fenomenológicas
+    *	**Etnografía digital:** adaptación de la etnografía a contextos digitales, manteniendo la lógica de trabajo de campo. Small data etnográfico.
+    *	**Análisis Historiográfico:** mapas situacionales y de contexto.
+    *	**Análisis Crítico del Discurso:** interpreta cómo el lenguaje produce sentido, identidad, poder e ideología.
+    *	**Investigación-Acción Participativa (IAP):** metodología participativa, crítica e interpretativa orientada a la transformación social.
+    *	**Grupos focales:** buscan la comprensión en profundidad de problemas sociales mediante discusión guiada de grupos seleccionados intencionalmente.
+    * **Entrevistas dialógicas:** espacio de co-construcción de significados.
 
 <span style="color: #f68212;"><i class="fas fa-exclamation-circle"></i>&nbsp;</span>**Para contactarme por email o conocer más de mi trabajo, haz clic en los íconos bajo mi nombre**
 <p>&nbsp;<i class="fas fa-envelope" style="color: #f68212;"></i>&nbsp;<b>Email:</b> eburbano@unbosque.edu.co</p>
