@@ -4,7 +4,7 @@ date: 2025-08-22T00:00:00
 lastmod: 2025-08-23T00:00:00
 authors: ["juan-david-leongomez"]
 summary: "Documento vivo que unifica estrategias cuantitativas y cualitativas/mixtas para justificar tamaños de muestra, integrando el marco de Lakens (2022) con criterios ampliamente usados en investigación cualitativa y trabajo comunitario."
-tags: ["Estadística", "Entrevistas", "Investigación participativa", "Estudios comunitarios", "Tamaño de muestra", "n", "Métodos cuantitativos", "Métodos cualitativos", "Métodos mixtos", "Just-N Framework"]
+tags: ["Estadística", "Entrevistas", "Investigación participativa", "Estudios comunitarios", "Tamaño de muestra", "n", "Guía", "Métodos cuantitativos", "Métodos cualitativos", "Métodos mixtos", "Just-N Framework"]
 editor_options: 
   markdown: 
     wrap: 80

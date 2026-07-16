@@ -1,3 +1,9 @@
+// === Brand color token (Unidad de Investigaciones) ===
+// Institutional orange, used as-is everywhere (buttons, links, accents, icons).
+// Note: on white this is ~3:1 contrast for small text, below WCAG AA's 4.5:1 —
+// a deliberate brand-consistency choice rather than an oversight.
+$brand: #e27a16;
+
 // === Custom SVG icons in social/network bars (e.g. CvLAC) ===
 
 .network-icon li a svg {
@@ -13,52 +19,53 @@
 }
 
 // === Hero banner (#image section) ===
+// Two-column layout: text on the left, logo on the right (stacks on mobile,
+// text first). Sits on the plain section background, no photo/overlay,
+// so text and buttons use normal dark-on-light colors throughout.
 
-// Semi-transparent overlay to improve text readability without color-shifting the image.
-// Lives inside .home-section-bg (z-index: -1) so it sits above the image but below content.
-#image .home-section-bg::after {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0, 0, 0, 0.42);
-}
-
-.hero-content { text-align: center; }
+.hero-text { text-align: left; }
 
 .hero-title {
-  color: #fff;
-  font-size: 2.8em;
+  color: #212b2b;
+  font-size: 2.6em;
   font-weight: 700;
-  text-shadow:
-    -2px -2px 4px rgba(0, 0, 0, 0.85),
-     2px -2px 4px rgba(0, 0, 0, 0.85),
-    -2px  2px 4px rgba(0, 0, 0, 0.85),
-     2px  2px 4px rgba(0, 0, 0, 0.85),
-     0    0   14px rgba(0, 0, 0, 0.6);
+  line-height: 1.1;
   margin-bottom: 0.4em;
-  line-height: 1;
 }
 
+.hero-accent { color: $brand; }
+
 .hero-subtitle {
-  color: #fff;
-  font-size: 1.2em;
-  text-shadow:
-    -1px -1px 1px rgba(0, 0, 0, 0.85),
-     1px -1px 3px rgba(0, 0, 0, 0.85),
-    -1px  1px 3px rgba(0, 0, 0, 0.85),
-     1px  1px 3px rgba(0, 0, 0, 0.85),
-     0    0   10px rgba(0, 0, 0, 0.6);
-  margin-bottom: 2em;
-  max-width: 640px;
-  margin-left: auto;
-  margin-right: auto;
+  color: #555;
+  font-size: 1.15em;
+  font-weight: 600;
+  margin-bottom: 0.8em;
+}
+
+.hero-intro {
+  color: #555;
+  font-size: 1.05em;
+  max-width: 42em;
+  margin-bottom: 1.6em;
+}
+
+.hero-media-img {
+  max-width: 340px;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 8px 20px rgba(0, 0, 0, 0.12));
 }
 
 .hero-actions {
   display: flex;
   gap: 1em;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
+}
+
+@media (max-width: 991.98px) {
+  .hero-text { text-align: center; }
+  .hero-actions { justify-content: center; }
 }
 
 .hero-btn {
@@ -68,15 +75,41 @@
   font-weight: 600;
   font-size: 1.05em;
   border-radius: 8px;
+  border: 2px solid transparent;
   text-decoration: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
 }
-.hero-btn-primary   { background-color: #f68212; }
-.hero-btn-secondary { background-color: #e2791d; }
+
+// Filled — main call to action.
+// Color is repeated on :hover/:focus because the theme's global `a:hover`
+// rule outranks a plain class selector and would otherwise recolor the text
+// to $primary — invisible here since the button background is that same color.
+.hero-btn-primary {
+  background-color: $brand;
+  color: #fff;
+}
+.hero-btn-primary:hover,
+.hero-btn-primary:focus {
+  background-color: darken($brand, 8%);
+  color: #fff;
+}
+
+// Outline — sits on the plain section background.
+.hero-btn-secondary {
+  background-color: transparent;
+  border-color: $brand;
+  color: $brand;
+}
+.hero-btn-secondary:hover,
+.hero-btn-secondary:focus {
+  background-color: rgba($brand, 0.08);
+  color: $brand;
+}
 
 // === Shared card style (used in about and pasos sections) ===
 
 .section-card {
-  border-top: 4px solid #f68212;
+  border-top: 4px solid $brand;
   padding: 2em 1.5em;
   background: #fff;
   border-radius: 8px;
@@ -86,7 +119,7 @@
 
 .section-card-icon {
   font-size: 2.2em;
-  color: #f68212;
+  color: $brand;
   margin-bottom: 0.6em;
 }
 
@@ -107,10 +140,108 @@
 .download-btn {
   display: inline-block;
   padding: 0.6em 1.6em;
-  background-color: #f68212;
+  background-color: $brand;
   color: #fff;
   font-weight: 600;
   border-radius: 6px;
   text-decoration: none;
   font-size: 0.95em;
+  transition: background-color 0.15s ease;
+}
+// Repeats `color` on :hover/:focus for the same reason as .hero-btn-primary above:
+// the global `a:hover` rule would otherwise recolor the text to $primary,
+// matching this button's background and making it disappear.
+.download-btn:hover,
+.download-btn:focus {
+  background-color: darken($brand, 8%);
+  color: #fff;
+}
+
+// === Jump nav (top of /asesores/, links to each area section) ===
+
+.asesores-jumpnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  justify-content: center;
+  margin: 1.5em 0;
+}
+
+.asesores-jumpnav a {
+  display: inline-block;
+  padding: 0.35em 1.1em;
+  border-radius: 9999px;
+  border: 1px solid $brand;
+  color: $brand;
+  font-size: 0.9em;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.asesores-jumpnav a:hover,
+.asesores-jumpnav a:focus {
+  background-color: $brand;
+  color: #fff;
+}
+
+.asesores-jumpnav a i {
+  margin-right: 0.3em;
+}
+
+// The People widget auto-prints each `user_groups` name as its own <h2>
+// above that group's cards. Every people-widget on this site (12 area
+// sections, the home "Equipo" list, and género) filters on exactly one
+// group, so that h2 always just repeats the section's own <h1> title —
+// hiding it site-wide loses no information anywhere.
+.people-widget h2.mb-4 {
+  display: none;
+}
+
+// === Area icons on /asesores/ section headings ===
+// Same icon set already used in each advisor's "interests" list, applied to
+// the <h1> of each area's people-widget section. Injected via ::before with
+// the icon's Unicode codepoint (not a raw <i> tag) because Wowchemy escapes
+// HTML in the widget `title` param — this is the only way to get the icon
+// into that heading. Codepoints pulled from the loaded Font Awesome 5.14 CSS.
+$area-icons: (
+  etica: "\f4be",
+  exp: "\f493",
+  stats: "\f080",
+  eye: "\f06e",
+  cuali: "\f4fc",
+  cuanti: "\f545",
+  mixtos: "\f55b",
+  neuro: "\f5dc",
+  apa: "\f044",
+  psicometria: "\f496",
+  revision: "\f02d",
+);
+
+@each $id, $code in $area-icons {
+  ##{$id} .section-heading h1::before {
+    content: $code;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 0.35em;
+    color: $brand;
+  }
+}
+
+// Programación en R uses a brands icon (different font family/weight).
+// Kept in its own map/@each (rather than a plain rule) so the codepoint goes
+// through the same Sass string-interpolation path as the ones above — a bare
+// `content: "\f4f7";` compiles to the literal 6-char text, not the glyph.
+$area-icons-brand: (
+  rstats: "\f4f7",
+);
+
+@each $id, $code in $area-icons-brand {
+  ##{$id} .section-heading h1::before {
+    content: $code;
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+    margin-right: 0.35em;
+    color: $brand;
+  }
 }

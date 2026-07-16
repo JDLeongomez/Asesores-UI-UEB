@@ -4,7 +4,7 @@ date: 2026-05-07T00:00:00
 lastmod: 2026-05-07T00:00:00
 authors: ["juan-david-leongomez"]
 summary: "Aplicación Shiny interactiva que guía a investigadores en la elección, aplicación y justificación de la estrategia más adecuada para el tamaño de muestra, para diseños cuantitativos, cualitativos y mixtos."
-tags: ["Estadística", "App", "Software", "R", "Tamaño de muestra", "n", "Correlación", "Pruebas t", "ANOVA", "Métodos cuantitativos", "Métodos cualitativos", "Métodos mixtos", "Just-N Framework"]
+tags: ["Estadística", "App", "Guía", "Software", "R", "Tamaño de muestra", "n", "Correlación", "Pruebas t", "ANOVA", "Métodos cuantitativos", "Métodos cualitativos", "Métodos mixtos", "Just-N Framework"]
 editor_options:
   markdown:
     wrap: 80

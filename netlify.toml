@@ -15,3 +15,65 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+# Redirects for the old per-area pages, consolidated into anchored sections
+# on /asesores/ (see content/asesores/*.md).
+[[redirects]]
+  from = "/apa/"
+  to = "/asesores/#apa"
+  status = 301
+
+[[redirects]]
+  from = "/cuali/"
+  to = "/asesores/#cuali"
+  status = 301
+
+[[redirects]]
+  from = "/cuanti/"
+  to = "/asesores/#cuanti"
+  status = 301
+
+[[redirects]]
+  from = "/etica/"
+  to = "/asesores/#etica"
+  status = 301
+
+[[redirects]]
+  from = "/exp/"
+  to = "/asesores/#exp"
+  status = 301
+
+[[redirects]]
+  from = "/eye/"
+  to = "/asesores/#eye"
+  status = 301
+
+[[redirects]]
+  from = "/mixtos/"
+  to = "/asesores/#mixtos"
+  status = 301
+
+[[redirects]]
+  from = "/neuro/"
+  to = "/asesores/#neuro"
+  status = 301
+
+[[redirects]]
+  from = "/psicometria/"
+  to = "/asesores/#psicometria"
+  status = 301
+
+[[redirects]]
+  from = "/revision/"
+  to = "/asesores/#revision"
+  status = 301
+
+[[redirects]]
+  from = "/rstats/"
+  to = "/asesores/#rstats"
+  status = 301
+
+[[redirects]]
+  from = "/stats/"
+  to = "/asesores/#stats"
+  status = 301

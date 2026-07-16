@@ -9,116 +9,121 @@
 #  weight = 10
 
 [[main]]
-  name = "Equipo de asesoras y asesores"
+  name = "Equipo"
   url = "#people"
   weight = 10
 
 [[main]]
+  name = "Solicitar asesoría"
+  url = "#pasos"
+  weight = 15
+
+[[main]]
   identifier = "asesores"
-  name = "Asesoras/es por área"
+  name = "Áreas"
   url = "asesores/"
   weight = 20
-
-  [[main]]
-    identifier = "asesores01"
-    name = "Normas APA"
-    url = "apa/"
-    parent = "asesores"
-    weight = 20
-
-  [[main]]
-    identifier = "asesores02"
-    name = "Psicometría"
-    url = "psicometria/"
-    parent = "asesores"
-    weight = 25
-
-  [[main]]
-    identifier = "asesores03"
-    name = "Aspectos Éticos"
-    url = "etica/"
-    parent = "asesores"
-    weight = 30
-
-  [[main]]
-    identifier = "asesores04"
-    name = "Métodos Cualitativos"
-    url = "cuali/"
-    parent = "asesores"
-    weight = 35
-
-  [[main]]
-    identifier = "asesores05"
-    name = "Métodos Mixtos"
-    url = "mixtos/"
-    parent = "asesores"
-    weight = 40
-
-  [[main]]
-    identifier = "asesores06"
-    name = "Métodos Cuantitativos"
-    url = "cuanti/"
-    parent = "asesores"
-    weight = 45
-
-  [[main]]
-    identifier = "asesores07"
-    name = "Estadística"
-    url = "stats/"
-    parent = "asesores"
-    weight = 50
-
-  [[main]]
-    identifier = "asesores08"
-    name = "Diseños Experimentales"
-    url = "exp/"
-    parent = "asesores"
-    weight = 55
-
-#  [[main]]
-#    identifier = "asesores09"
-#    name = "Estudios Feministas y de Género"
-#    url = "genero/"
-#    parent = "asesores"
-#    weight = 60
-
-   [[main]]
-    identifier = "asesores10"
-    name = "Revisiones y metaanálisis"
-    url = "revision/"
-    parent = "asesores"
-    weight = 65
-
-  [[main]]
-    identifier = "asesores11"
-    name = "Programación en R"
-    url = "rstats/"
-    parent = "asesores"
-    weight = 70
-
-  [[main]]
-    identifier = "asesores12"
-    name = "Neurociencia Cognitiva"
-    url = "neuro/"
-    parent = "asesores"
-    weight = 75
-
-  [[main]]
-    identifier = "asesores13"
-    name = "Eye Tracking y Métodos de Atención Visual"
-    url = "eye/"
-    parent = "asesores"
-    weight = 80
 
   [[main]]
     identifier = "asesores00"
     name = "<b>Todas las áreas</b>"
     url = "asesores/"
     parent = "asesores"
-    weight = 100
+    weight = 10
+
+  [[main]]
+    identifier = "asesores03"
+    name = "Aspectos Éticos"
+    url = "asesores/#etica"
+    parent = "asesores"
+    weight = 20
+
+  [[main]]
+    identifier = "asesores04"
+    name = "Métodos Cualitativos"
+    url = "asesores/#cuali"
+    parent = "asesores"
+    weight = 40
+
+  [[main]]
+    identifier = "asesores06"
+    name = "Métodos Cuantitativos"
+    url = "asesores/#cuanti"
+    parent = "asesores"
+    weight = 45
+
+  [[main]]
+    identifier = "asesores08"
+    name = "Diseños Experimentales"
+    url = "asesores/#exp"
+    parent = "asesores"
+    weight = 25
+
+  [[main]]
+    identifier = "asesores07"
+    name = "Estadística"
+    url = "asesores/#stats"
+    parent = "asesores"
+    weight = 30
+
+  [[main]]
+    identifier = "asesores13"
+    name = "Eye Tracking"
+    url = "asesores/#eye"
+    parent = "asesores"
+    weight = 35
+
+  [[main]]
+    identifier = "asesores05"
+    name = "Métodos Mixtos"
+    url = "asesores/#mixtos"
+    parent = "asesores"
+    weight = 50
+
+  [[main]]
+    identifier = "asesores12"
+    name = "Neurociencia Cognitiva"
+    url = "asesores/#neuro"
+    parent = "asesores"
+    weight = 55
+
+  [[main]]
+    identifier = "asesores01"
+    name = "Normas APA"
+    url = "asesores/#apa"
+    parent = "asesores"
+    weight = 60
+
+  [[main]]
+    identifier = "asesores11"
+    name = "Programación en R"
+    url = "asesores/#rstats"
+    parent = "asesores"
+    weight = 65
+
+  [[main]]
+    identifier = "asesores02"
+    name = "Psicometría"
+    url = "asesores/#psicometria"
+    parent = "asesores"
+    weight = 70
+
+  [[main]]
+    identifier = "asesores10"
+    name = "Revisiones y metaanálisis"
+    url = "asesores/#revision"
+    parent = "asesores"
+    weight = 75
+
+#  [[main]]
+#    identifier = "asesores09"
+#    name = "Estudios Feministas y de Género"
+#    url = "genero/"
+#    parent = "asesores"
+#    weight = 80
 
 [[main]]
-  name = "Recursos metodológicos"
+  name = "Recursos"
   url = "#recursos"
   weight = 75
 

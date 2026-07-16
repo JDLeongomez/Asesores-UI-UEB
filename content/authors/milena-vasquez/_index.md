@@ -22,7 +22,7 @@ bio:
 
 interests:
 - <a href='/cuanti' >Métodos Cuantitativos <i class="fas fa-ruler"></i></a><br />
-- <a href='/exp' >Diseños Experimentales y Observacionales <i class="fas fa-vials"></i></a><br />
+- <a href='/exp' >Diseños Experimentales <i class="fas fa-vials"></i></a><br />
 - <a href='/neuro' >Neurociencia Cognitiva <i class="fas fa-brain"></i></a><br />
 - <a href='/eye' >Eye Tracking y Métodos de Atención Visual <i class="fas fa-eye"></i></a><br />
 
