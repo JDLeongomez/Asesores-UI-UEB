@@ -1,0 +1,16 @@
+{{/*
+  Hugo 0.80 (pinned by this site) has no locale-aware date formatting, so
+  `.Format` / `time.Format` always render month names in English. This
+  substitutes Spanish month names into the Go layout before calling Format,
+  so numeric tokens (day, year, ...) still resolve normally.
+
+  Params: .date (time.Time), .format (Go layout string)
+*/}}
+{{ $date := .date }}
+{{ $layout := .format }}
+{{ $months := slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre" }}
+{{ $monthsShort := slice "ene." "feb." "mar." "abr." "may." "jun." "jul." "ago." "sep." "oct." "nov." "dic." }}
+{{ $monthIndex := sub (int ($date.Format "1")) 1 }}
+{{ $layout = replace $layout "January" (index $months $monthIndex) }}
+{{ $layout = replace $layout "Jan" (index $monthsShort $monthIndex) }}
+{{ $date.Format $layout }}
